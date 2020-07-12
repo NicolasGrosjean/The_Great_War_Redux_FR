@@ -1,0 +1,17 @@
+﻿l_french:
+
+ # Override news by HOI4TGW
+
+ news.128.t:0 "The Fall of Berlin"
+ news.128.d:0 "La prise de la capitale allemande a été confirmée par des responsables à Washington. Les combats dans la ville ont été décrits comme intenses, le pont Moltke ayant été démoli par des pionniers allemands désespérés pour stopper l'avancée des envahisseurs.\n\nD'autres ponts sur la Spree ont finalement été sécurisés, les envahisseurs ont pris d'assaut l'opéra Kroll et le Reichstag malgré une résistance allemande féroce. La bataille de Berlin est terminée."
+ news.128.b:0 "Berlin est tombé"
+
+ news.129.d:0 "La prise de la capitale allemande a été confirmée par des responsables à Washington. Les combats dans la ville ont été décrits comme intenses, le pont Moltke ayant été démoli par des pionniers allemands désespérés pour stopper l'avancée des envahisseurs.\n\nD'autres ponts sur la Spree ont finalement été sécurisés, les envahisseurs ont pris d'assaut l'opéra Kroll et le Reichstag malgré une résistance allemande féroce. La bataille de Berlin est terminée."
+ news.129.b:0 "Berlin est tombé"
+ news.130.d:0 "French forces have successfully stormed the German capital, which fell after a series of pitched battles within the city limits. A large group of Waffen-SS soldiers barricaded themselves in the Olympiastadion, which eventually fell after a determined attack by Foreign Legionnaires supported by artillery.\n\nThe French tricolor can now be seen flying over the Reich Chancellery, and although sporadic fighting is still being reported from some suburbs, most of Berlin is believed to have been cleared of organized resistance."
+ news.130.b:0 "Berlin est tombé"
+
+ news.155.t:0 "Germany At War Again"
+ news.155.d:0 "Bien que beaucoup aient souhaité une paix durable en Europe, une récente tournure des événements a laissé l'Empire allemand sur le chemin de la guerre une fois de plus. Les troupes allemandes se sont mobilisées et sont prêtes à passer à l'offensive."
+ news.155.a:0 "C'est peut-être le début d'une autre guerre"
+ news.155.b:0 "Pour la gloire de l'Empire allemand"
