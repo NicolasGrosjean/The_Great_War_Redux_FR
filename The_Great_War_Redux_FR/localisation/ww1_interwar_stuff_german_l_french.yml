@@ -9,40 +9,40 @@ interwar_hitler_putsch_fail:0 "Le Putsch de la Brasserie échoue"
 
 ## focus
 
- GER_disband_reichstag:0 "Disband the Reichstag"
- GER_disband_reichstag_desc:0 "Use OHL to disband parliament before the end of triumphant euphoria."
+ GER_disband_reichstag:0 "Dissoudre le Reichstag"
+ GER_disband_reichstag_desc:0 "Utilisez l'OHL pour dissoudre le Parlement avant la fin de l'euphorie triomphante."
 ## Ideas
- GER_victors_of_wwi:0 "Victors of the Weltkrieg"
- GER_victors_of_wwi_desc:0 "We were the undisputed victors of the Weltkrieg and our place in the sun all but guaranteed."
+ GER_victors_of_wwi:0 "Vainqueurs de la Weltkrieg"
+ GER_victors_of_wwi_desc:0 "Nous étions les vainqueurs incontestés de la Weltkrieg et notre place au soleil était pratiquement garantie."
 
- GER_quenched_militarism:0 "Quenched Militarism"
- GER_quenched_militarism_desc:0 "Victory always comes at a cost, and the Weltkrieg was unlike any war the world had ever seen. While we may have been victorious, that didn't bring our boys home. Our families still remember that pain clearly and are not eager to experience it again."
+ GER_quenched_militarism:0 "Militarisme éteint"
+ GER_quenched_militarism_desc:0 "La victoire a toujours un prix, et la Weltkrieg ne ressemblait à aucune autre guerre que le monde ait jamais connue. Nous avons peut-être été victorieux, mais cela n'a pas ramené nos gars à la maison. Nos familles se souviennent encore clairement de cette douleur et ne sont pas impatientes de la revivre."
 
  GER_mitteleuropa:0 "Mitteleuropa"
- GER_mitteleuropa_desc:0 "We are the leader of Mitteleuropa, an economic cooperation pact that helps us project power."
+ GER_mitteleuropa_desc:0 "Nous sommes à la tête de la Mitteleuropa, un pacte de coopération économique qui nous aide à projeter la puissance."
 
- GER_representative_reform_idea:0 "Representative Reform"
+ GER_representative_reform_idea:0 "Réforme des représentants"
 
- GER_holy_order:0 "Holy Order"
+ GER_holy_order:0 "Ordre Saint"
 
  GER_roter_frontkampferbund:0 "Roter Frontkämpferbund"
 
  GER_political_commissars_idea: "Political Commissars"
 
- GER_political_commissars_idea: "Political Commissars"
+ GER_political_commissars_idea:0 "Commissaires politiques"
 
- GER_ss_idea: "Schutzstaffeln"
+ GER_ss_idea:0 "Schutzstaffeln"
 
- GER_idea_hitler_arrested:0 "Hitler Arrested"
+ GER_idea_hitler_arrested:0 "Hitler Arrêté"
 
- GER_reformed_economy:0 "Reformed Economy"
+ GER_reformed_economy:0 "Économie Réformée"
 
- GER_mass_mobilization:0 "Mass Mobilization"
+ GER_mass_mobilization:0 "Mobilisation de Masse"
 
 ### Research Groups ###
- german_research_name:0 "Kaiser Wilhelm Society"
- german_research_desc:0 "The Kaiser Wilhelm Society is the principle joint-research organisation of Mitteleuropa."
+ german_research_name:0 "Société du Kaiser Wilhelm"
+ german_research_desc:0 "La Société du Kaiser Wilhelm est la principale organisation de recherche commune de la Mitteleuropa."
 
 ### Cosmetic tag ###
- GER_kaiserreich_flag_democratic:0 "German Confederation"
- GER_kaiserreich_flag_democratic_DEF:0 "the German Confederation"
+ GER_kaiserreich_flag_democratic:0 "Confédération allemande"
+ GER_kaiserreich_flag_democratic_DEF:0 "la Confédération allemande"

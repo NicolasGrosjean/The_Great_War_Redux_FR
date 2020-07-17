@@ -1,6 +1,6 @@
 ﻿l_french:
- DIPLOMACY_MILACC:0 "Military access"
-HOI4TGW_Opinion_alliance_bonus_boost:0 "Alliance"
+ DIPLOMACY_MILACC:0 "Accès militaire"
+ HOI4TGW_Opinion_alliance_bonus_boost:0 "Alliance"
 HOI4TGW_Opinion_give_weapons:0 "Trafic d'armes"		# Trade +50 (Traffic d'armes)
 HOI4TGW_Opinion_improved_diplomatic_relations:0 "Amélioration des relations diplomatiques"		# Diplo +50
 HOI4TGW_Opinion_hostile_diplomatic_relations:0 "Détériorations des relations diplomatiques"		# Diplo -30
@@ -25,11 +25,11 @@ HOI4TGW_Opinion_ger_auh_alliance_focus_malus:0 "Changement de relations diplomat
 HOI4TGW_Opinion_ger_ita_advisor_bonus:0 "Envoyer des conseillers"
 HOI4TGW_Opinion_ger_auh_advisor_bonus:0 "Envoyer des conseillers"
 HOI4TGW_Opinion_fra_diplomats_bonus:0 "Envoyer des diplomates"
-HOI4TGW_Opinion_influence_faction:0 "Faction Influence"
+ HOI4TGW_Opinion_influence_faction:0 "Influence de Faction"
 HOI4TGW_Opinion_diplomats_malus:0 "Malus diplomatique"
 HOI4TGW_Opinion_Russia_Leave_Entente:0 "L'Empire Russe quitte l'Entente"
 benilux_friendship:0 "Amitié du Benelux"
 entente_friendship:0 "Amitié de l'Entente"
 germany_friendship:0 "Amitié de l'Allemagne"
- pogroms_opinion:0 "Supported pogroms"
- MNT_montenegrin_japanese_war:0 "Montenegrin-Japanese War"
+ pogroms_opinion:0 "Pogroms soutenus"
+ MNT_montenegrin_japanese_war:0 "Guerre Monténégro-Japon"
