@@ -146,7 +146,7 @@
 
  LOADING_TIP_72:0 "En guerre, le premier principe est de désobéir aux ordres. N'importe quel imbécile peut obéir aux ordres !\n- Sir John Fisher"
 
- LOADING_TIP_73:0 "Je n'ai plus de réserves. Les hommes qu'il me reste sont les sentinelles à mes portes. Je les mettrai là où la ligne est brisée, et le dernier des Anglais mourra en se battant.\n- Sir John French"
+ LOADING_TIP_73:9 "Je n'ai plus de réserves. Les hommes qu'il me reste sont les sentinelles à mes portes. Je les mettrai là où la ligne est brisée, et le dernier des Anglais mourra en se battant.\n- Sir John French"
 
  LOADING_TIP_74:0 "En temps de guerre, aucun soldat n'est libre de dire ce qu'il pense; après une guerre, personne ne se soucie de ce qu'un soldat pense.\n- Sir Ian Hamilton"
 
@@ -156,9 +156,9 @@
 
  LOADING_TIP_77:0 "L'essentiel est de toujours avoir un plan; si ce n'est pas le meilleur plan, c'est au moins mieux que de ne pas en avoir du tout.\n- Sir John Monash"
  
- LOADING_TIP_78:0 "Pauvre Mexique, si loin de Dieu et si proche des États-Unis.\n- Porfirio Diaz"
+ LOADING_TIP_78:9 "Pauvre Mexique, si loin de Dieu et si proche des États-Unis.\n- Porfirio Diaz"
  
- LOADING_TIP_79:0 "Madero a libéré le tigre, voyons. s'il peut l'apprivoiser.\n- Porfirio Diaz en Exil"
+ LOADING_TIP_79:9 "Madero a libéré le tigre, voyons. s'il peut l'apprivoiser.\n- Porfirio Diaz en Exil"
 
  LOADING_TIP_80:0 "Les armées sont les plus grands partisans de la tyrannie.\n- Pancho Villa"
  
@@ -168,4 +168,48 @@
  
  LOADING_TIP_83:0 "Si les femmes dans les usines s'arrêtaient de travailler pendant vingt minutes, les Alliés perdraient la guerre.\n- Maréchal Joffre"
  
- 
+ LOADING_TIP_84:9 "And the only difference that I have found between the Democratic leadership and the Republican leadership was that one of 'em was skinning you from the ankle up and the other from the ear down\n- Huey Long"
+
+ LOADING_TIP_85:9 "It is necessary; that the interests of the African natives must be paramount, and that if, and when, their interests and the interests of the immigrant races should conflict, the former should prevail.\n- Annual Colonial Report for Kenya, 1923"
+
+ LOADING_TIP_86:9 "Gas! Gas! An ecstasy of fumbling!\n- Wilfred Owen"
+
+ LOADING_TIP_87:9 "The road to Constantinople runs through Warsaw.\n- E. N. Trubetskoi"
+
+ LOADING_TIP_88:9 "The shortest and safest operational route to Constantinople runs through Vienna... and Berlin.\n- Quartermaster-General Yuri Danilov"
+
+ LOADING_TIP_89:9 "Let China sleep, for when she wakes the world will tremble.\n- Napoleon Bonaparte"
+
+ LOADING_TIP_90:9 "Talk to me of treaties! Talk to me of the League of Nations! Every Great Power in Europe was pledged by treaty to preserve Belgium. That was a League of Nations, but it failed.\n- Edward Carson"
+
+ LOADING_TIP_91:9 "We didn't start the fire, but when we are gone it will still burn on, and on, and on.\n- Billy Joel"
+
+
+
+
+ LOADING_GUI:9 "Signing the London Treaty"
+ LOADING_HISTORY:9 "Fighting the Ottomans"
+ LOADING_SAVEGAME:9 "Reshaping history: $NAME$"
+ LOADING_SAVEGAME_NO_NAME:9 "Reshaping history"
+ LOADING_DATABASES:9 "Landing in Indochina"
+ LOADING_MAP_SPRITES:9 "Finding a place in the sun"
+ LOAD_GFX_PDXMAP_SHADERS:9 "Deposing the Tsar"
+ LOAD_GFX_PDXMAP_TERRAIN:9 "Revolting in Britain"
+ LOAD_GFX_PDXMAP_BORDERS:9 "Assassinating Jaures"
+ LOAD_GFX_PDXMAP_TEXTURES:9 "Restoring the Monarchy"
+ LOAD_GFX_PDXMAP_TREES:9 "Shooting Italians"
+ LOAD_GFX_PDXMAP_RIVERS:9 "Placating Socialists"
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS:9 "Asking for the Next Update"
+ LOAD_EVENTS:9 "Timelapseing"
+ LOAD_GFX:9 "Building Industry in Turkey"
+ LOADING_MAIN_MENU:9 "Propping up dying empires"
+ PRECALC_NAVAL_DIST:9 "Spinning the Gorilla"
+ EXITING_TO_FRONTEND:9 "Screaming at Kenya"
+ LOAD_INIT:9 "Preparing a Naval Invasion"
+ LOAD_FLAGS:9 "Saving American Democracy"
+ PROC_FLAGS:9 "Commanding the Kuomintang"
+ INIT_MAP_LOGIC:9 "Fleeing to Canada"
+ INIT_GAMESTATE:9 "Treating the Sick Man"
+ EXECUTE_HISTORY:9 "Watching the Rhine"
+ CREATING_CHKSUM:9 "Bombing London"
+ GENERATING_GRADIENT_BORDERS:9 "Shelling Verdun"

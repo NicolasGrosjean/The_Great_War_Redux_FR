@@ -35,7 +35,11 @@
 
  HOL_POWDERKEG_DESC:0 "Depuis la deuxième Conférence de La Haye en 1907, les Pays-Bas font tout pour éviter une alliance politique avec un autre empire européen. \n\nAlors que les tambours de la guerre résonnent aux portes d'Amsterdam et malgré leur forte politique de neutralité, le pacifique pays des moulins pourrait bientôt se retrouver face au mur et devoir faire un choix qui pourrait changer à jamais l'avenir de l'Empire néerlandais.\nPersonne ne sait comment la reine Wilhelmina, farouchement patriotique, va réagir..."
  
- QIN_POWDERKEG_DESC:0 ""
+ QIN_POWDERKEG_DESC:9 "Of all the Chinese dynasties, the Qing was the strongest and most glorious. After flourishing in the 18th century, it fell apart in the 19th. Like many complicated systems, it grew brittle and inflexible. It could not adjust as new problems arose. Bad harvests, warfare, rebellions, overpopulation, economic disasters, and foreign imperialism.\n\nChina let foreigners get by with too much, and the foreigners took advantage of China’s weaknesses. The dynasty got weaker and weaker as timed progressed, but China won't go down without a fight."
+ 
+ AST_POWDERKEG_DESC:9 "Gold rushes and agricultural industries brought prosperity. Autonomous parliamentary democracies began to be established throughout the six British colonies from the mid-19th century. The colonies voted by referendum to unite in a federation in 1901, and modern Australia came into being.\n\nCatastrophic droughts plagued some regions in the late 1890s and early 20th century and together with a growing rabbit plague, created great hardship in rural Australia."
+
+ CAN_POWDERKEG_DESC:9 "Canada has been a loyal subject and friend to the British Crown since it's conception. In such times of turmoil, Canada must look to aiding the Crown and her vast Empire. Although Canada is large with vast resources and rich land, it has a broken economy and a weak army. Canada could stand as the perfect ally in times of great struggle..../n/n/n But Canada could find a new purpose, or a new destiny, and be a place for Canadians. This young country is more powerful than it seems!"
  
  OTHER_POWDERKEG_DESC:0 "Les autres pays de cette période."
 

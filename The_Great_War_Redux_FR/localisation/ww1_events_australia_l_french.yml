@@ -1,11 +1,11 @@
-﻿l_french: 
+﻿l_french:
 
-ww1_australia.1.a:0 "Hopefully, he does a bit better."
-ww1_australia.1.d:0 "William Ward's extravagant lifestyle and conflicts with the Labor party have left him very unpopular among the Australian populace. He has petitioned the British government for replacement, to the relief of Australians everwhere. Thomas Denman has been chosen as the replacement."
-ww1_australia.1.t:0 "William Ward Retires!"
-ww1_australia.2.a:0 "What, again?"
-ww1_australia.2.d:0 "It turns out Thomas Denman is very allergic to Australia's national flower. With his health in danger, he's asked to return home to the United Kingdom, with Ronald Munro Ferguson to take his position."
-ww1_australia.2.t:0 "Thomas Denman resigns"
+ ww1_australia.1.a:0 "Espérons qu’il fera un peu mieux."
+ ww1_australia.1.d:0 "Le style de vie extravagant de William Ward et les conflits avec le Parti Travailliste l’ont laissé particulièrement impopulaire auprès des Australiens. Il a adressé une pétition au gouvernement britannique pour être remplacé, au soulagement des Australiens. Thomas Denman a été désigné."
+ ww1_australia.1.t:0 "William Ward se retire !"
+ ww1_australia.2.a:0 "Quoi, encore ?"
+ ww1_australia.2.d:0 "Il s’avère que Thomas Denman est très allergique à la fleur nationale de l’Australie. Avec sa santé fragile, on lui demande de rentrer en Angleterre. Ronald Munro Ferguson va reprendre son poste."
+ ww1_australia.2.t:0 "Thomas Denman démissionne de ses fonctions !"
 wwaustralia.1.title:0 "The 1916 Conscription Plebiscite - The Campaign Begins"
 wwaustralia.1.desc:0 "The announcement of the plebiscite, has stirred a great debate.  We should continue pushing for public support, to ensure victory."
 wwaustralia.1.a:0 "Increase Support"
