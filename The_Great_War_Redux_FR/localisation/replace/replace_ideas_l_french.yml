@@ -1,7 +1,7 @@
 ﻿l_french:
- fascist_influence:0 "Proto-Fascist Influence"
- fascist_influence_desc:0 "Proto-fascist pressure has made proto-fascism very popular, and the country is susceptible to align with other proto-fascists."
- communist_influence:0 "Socialist Influence"
- communist_influence_desc:0 "Socialist pressure has made socialism very popular, and the country is susceptible to align with other socialist."
- generic_communist_revolutionary:0 "Socialist Politician"
- generic_fascist_demagogue:0 "Proto-Fascist Politician"
+ fascist_influence:0 "Influence proto-fasciste"
+ fascist_influence_desc:0 "La pression proto-fasciste a rendu le proto-fascisme très populaire, et le pays est susceptible de s'aligner sur d'autres proto-fascistes."
+ communist_influence:0 "Influence socialiste"
+ communist_influence_desc:0 "La pression socialiste a rendu le socialisme très populaire, et le pays est susceptible de s'aligner sur d'autres socialistes."
+ generic_communist_revolutionary:0 "Politicien socialiste"
+ generic_fascist_demagogue:0 "Politicien proto-fasciste"

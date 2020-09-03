@@ -215,7 +215,7 @@
  STATE_214:0 "Arkhangelsk"
  STATE_215:0 "Onega"
  STATE_216:0 "Olonets"
- STATE_217:0 "Tsaritsyn"
+ STATE_217:0 "Tzaritzyn"
  STATE_218:0 "Rostov-na-Donu"
  STATE_219:0 "Moscow"
  STATE_220:0 "Kursk"
@@ -225,7 +225,7 @@
  STATE_224:0 "Bryansk"
  STATE_225:0 "Sumy"
  STATE_226:0 "Ekaterinoslav"
- STATE_227:0 "Yuzovka"
+ STATE_227:0 "Taganrog"
  STATE_228:0 "Lugansk"
  STATE_229:0 "Baku"
  STATE_230:0 "Erivan"
@@ -284,7 +284,7 @@
  STATE_283:0 "Gansu"
  STATE_284:0 "North Island"
  STATE_285:0 "New South Wales"
- STATE_286:9 "Indochina"
+ STATE_286:0 "Annam"
  STATE_287:0 "Taklamakan"
  STATE_288:0 "Burma"
  STATE_289:0 "Siam"
@@ -493,16 +493,16 @@
  STATE_493:0 "La Libertad"
  STATE_494:0 "Ucayali"
  STATE_495:0 "Amazonas"
- STATE_496:9 "Para"
- STATE_497:9 "Maranhao"
+ STATE_496:0 "Pará"
+ STATE_497:0 "Maranhão-Piauí"
  STATE_498:0 "Rio Grande do Norte"
  STATE_499:0 "Bahia"
  STATE_500:0 "Rio de Janerio"
- STATE_501:9 "Sao Paulo"
- STATE_502:9 "Rio Grande Sul"
+ STATE_501:0 "São Paulo"
+ STATE_502:0 "Rio Grande do Sul"
  STATE_503:0 "Santa Catarina"
  STATE_504:0 "Paraná"
- STATE_505:9 "Goias"
+ STATE_505:0 "Goiás"
  STATE_506:0 "Antofagasta"
  STATE_507:0 "Magallanes"
  STATE_508:0 "Tucuman"
@@ -536,7 +536,7 @@
  STATE_536:0 "Hokkaido"
  STATE_537:0 "Karafuto"
  STATE_538:0 "Central Congo"
- STATE_539:0 "Kamerun"
+ STATE_539:0 "South Kamerun"
  STATE_540:0 "Angola"
  STATE_541:0 "South West Africa"
  STATE_542:0 "Bechuanaland"
@@ -556,7 +556,7 @@
  STATE_556:0 "French West Africa"
  STATE_557:0 "Mauritania"
  STATE_558:0 "Nigeria"
- STATE_559:0 "Somalie Italienne"
+ STATE_559:0 "Somaliland"
  STATE_560:0 "Nikolayevsk"
  STATE_561:0 "Amur"
  STATE_562:0 "Okhotsk"
@@ -645,7 +645,7 @@
  STATE_645:0 "Iwo Jima"
  STATE_646:0 "Saipan"
  STATE_647:0 "Palau"
- STATE_648:0 "Minami-Tori-shima"
+ STATE_648:0 "Marcus Island"
  STATE_649:0 "Galapagos Islands"
  STATE_650:0 "Attu Island"
  STATE_651:0 "Ufa"
@@ -685,7 +685,7 @@
  STATE_685:0 "Panama Canal"
  STATE_686:0 "Puerto Rico"
  STATE_687:0 "British Guyana"
- STATE_688:9 "Presidente Hayes"
+ STATE_688:0 "Presidente Hayes"
  STATE_689:0 "Jamaica"
  STATE_690:0 "Northern Bahamas"
  STATE_691:0 "Trinidad"
@@ -738,28 +738,28 @@
  STATE_738:0 "Aru Islands"
  STATE_739:0 "Haida Gwaii"
  STATE_740:0 "Vancouver Island"
- STATE_741:9 "Sud-Est du Cambodge"
+ STATE_741:0 "Sud-Est du Cambodge"
  STATE_742:0 "Stalinabad"
- STATE_743:0 "Melilla et Ceuta" # Qingdao
+ STATE_743:0 "Mellilla and Ceuta" # Qingdao
  STATE_744:0 "Dalian" # Xian
  STATE_745:0 "Qingdau" # Dalian
  STATE_746:0 "Weihaiwei" # Ordos
  STATE_747:0 "Asir" # Dali
  STATE_748:0 "Tacna" # Zunyi
  STATE_749:0 "Huangshan"
- STATE_750:0 "Les Îles Vierges" # Changde
- STATE_751:0 "Jutland du Sud" # Liangshan
+ STATE_750:0 "Virgin Islands" # Changde
+ STATE_751:0 "South Jutland" # Liangshan
  STATE_752:0 "Gabon" # Ganzi
  STATE_753:0 "Port Moresby" # Gannan
- STATE_754:0 "Désert Libyen" # Golog
- STATE_755:0 "Sangha" # Ex-Nouveau Cameroun # Haixi (Chine) dans Vanilla)
+ STATE_754:0 "Kufra" # Golog
+ STATE_755:0 "Haixi"
  STATE_756:0 "East Thrace" # Jiuquan
- STATE_757:0 "Thrace Est" # Shigatse
- STATE_758:0 "Epire Centrale" # Ngari
- STATE_759:9 "Maleševo"
- STATE_760:0 "Serbie Sud" # Dabancheng
- STATE_761:0 "Montenegro Est" # Hulunbuir
- STATE_762:0 "Silésie" # Katowice
+ STATE_757:0 "Central Thrace" # Shigatse
+ STATE_758:0 "Yanya" # Ngari
+ STATE_759:0 "Maleševo" # Kunlun Shan
+ STATE_760:0 "South Serbia" # Dabancheng
+ STATE_761:0 "East Montenegro" # Hulunbuir
+ STATE_762:0 "Katowice"
  STATE_763:0 "Königsberg"
  STATE_764:0 "West Banat"
  STATE_765:0 "Qatar"
@@ -767,15 +767,15 @@
  STATE_767:0 "North Darfur"
  STATE_768:0 "Rwanda"
  STATE_769:0 "Burundi"
- STATE_770:9 "Malawi"
- STATE_771:9 "Northern Rhodesia"
+ STATE_770:0 "Nyasaland"
+ STATE_771:0 "Northern Rhodesia"
  STATE_772:0 "Middle Congo"
- STATE_773:0 "Nordkamerun"
- STATE_774:0 "Entenschnabel"
- STATE_775:0 "Nord du Tchad" # B.E.T
+ STATE_773:0 "North Kamerun"
+ STATE_774:0 "Chad"
+ STATE_775:0 "Northern Chad" # B.E.T
  STATE_776:0 "Dahomey"
- STATE_777:0 "Togo Est" # Togo
- STATE_778:0 "Burkina Faso" # Upper Volta
+ STATE_777:0 "Togo"
+ STATE_778:0 "Burkina Faso"
  STATE_779:0 "Ivory Coast"
  STATE_780:0 "Guinea"
  STATE_781:0 "Niger"
@@ -785,39 +785,39 @@
  STATE_785:0 "Picardy"
  STATE_786:0 "Mauritanian Desert"
  STATE_787:0 "Northern Kashmir"
- STATE_788:9 "Rhodopes"
+ STATE_788:0 "Rhodopes"
  STATE_789:0 "Walvis Bay"
  STATE_790:0 "Aegean Islands"
- STATE_791:9 "Ha'il"
+ STATE_791:0 "Ha'il"
  STATE_792:0 "Jubaland"
  STATE_793:0 "Eupen"
- STATE_794:0 "Togo Ouest"
- STATE_795:0 "Meta"
- STATE_796:0 "Gangwon du Sud"
+ STATE_794:0 "West Togoland"
+ STATE_795:0 "Vaupés"
+ STATE_796:0 "Southern Gangwon"
  STATE_797:0 "Hwanghae"
- STATE_798:0 "Gangwon du Nord"
+ STATE_798:0 "Northern Gangwon"
  STATE_799:0 "PyeongAn"
  STATE_800:0 "Gyeonggi"
  STATE_801:0 "ChungCheong"
  STATE_802:0 "Gyeongsang"
- STATE_803:0 "Epire Nord"
- STATE_804:0 "Salamanca"
- STATE_805:0 "Córdoba"
- STATE_806:0 "Asturias"
- STATE_807:0 "Valladolid"
- STATE_808:0 "País Vasco"
- STATE_809:0 "Guadalajara"
- STATE_810:0 "Eastern Aragón"
- STATE_811:0 "Santarém"
- STATE_812:0 "North Angola"
+ STATE_803:0 "Northern Epirus"
+ STATE_804:0 "Al Hasa"
+ STATE_805:0 "North Dobrudja"
+ STATE_806:0 "Kars"
+ STATE_807:0 "Aouzou"
+ STATE_808:0 "Brest-Litovsk"
+ STATE_809:0 "Niš"
+ STATE_810:0 "Agadir"
+ STATE_811:0 "Minas Gerais"
+ STATE_812:0 "Ubari-Murzuq"
  STATE_813:1 "West Cameroon"
  STATE_814:0 "Neukamerun"
  STATE_815:0 "South Neukamerun"
  STATE_816:0 "Sarra"
  STATE_817:0 "Dscharabub"
  STATE_818:0 "Egyptian Cyrenaica"
- STATE_819:9 "Nord-Ouest du Cambodge"
- STATE_820:9 "Cochinchme"
- STATE_821:9 "Pirot"
- STATE_822:9 "Xaignabouli"
- STATE_823:9 "Canberra"
+ STATE_819:0 "Nord-Ouest du Cambodge"
+ STATE_820:0 "Cochinchme"
+ STATE_821:0 "Pirot"
+ STATE_822:0 "Xaignabouli"
+ STATE_823:0 "Canberra"

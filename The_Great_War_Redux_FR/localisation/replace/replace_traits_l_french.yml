@@ -1,7 +1,7 @@
 ﻿l_french:
  panzer_leader:0 "Expert en mécanisation"
  panzer_leader_desc:0 "§LUn naturel avec des forces mécanisées et des chars.§!"
- communist_revolutionary:9 "Socialist Revolutionary"
- communist_revolutionary_desc:9 "§LA supporter of the international revolution hoping to aid the country's, and eventually the world's, transition to a socialist society.§!"
- fascist_demagogue:9 "Nationalist Demagogue"
- fascist_demagogue_desc:9 "§LDriven by a will to unite the people under a strong state, this politician emphasizes nationalist and militarist rhetoric.§!"
+ communist_revolutionary:9 "Révolutionnaire socialiste"
+ communist_revolutionary_desc:9 "§LUn partisan de la révolution internationale qui espère aider à la transition du pays, et finalement du monde, vers une société socialiste.§!"
+ fascist_demagogue:9 "Démagogue nationaliste"
+ fascist_demagogue_desc:9 "§LAnimé par une volonté d'unir le peuple sous un État fort, cet homme politique met l'accent sur la rhétorique nationaliste et militariste.§!"
