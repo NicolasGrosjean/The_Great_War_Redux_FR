@@ -184,6 +184,9 @@
 
  LOADING_TIP_91:0 "Nous n'avons pas allumé le feu, mais quand nous serons partis, il continuera de brûler, encore et encore.\n- Billy Joel"
 
+ LOADING_TIP_92:9 "God has endowed the British race with a worldwide empire, that they may execute His sovereign purpose in the world. The victories you will have over the heathen are the victories of the nobler soul in man.\n- Unknown Chaplain"
+
+ LOADING_TIP_93:9 "Soldiers! Heroes! The supreme command has erased our regiment from its records. Our regiment has been sacrificed for the honor of Belgrade and the Fatherland. Therefore, you no longer need to worry about your lives: they no longer exist. So, forward to glory! For the King and the Fatherland! Long live the King, Long live Belgrade!\n- Dragutin Gavrilović"
 
 
 
@@ -196,7 +199,7 @@
  LOAD_GFX_PDXMAP_SHADERS:0 "Déposer le Tsar"
  LOAD_GFX_PDXMAP_TERRAIN:0 "Révolte en Grande-Bretagne"
  LOAD_GFX_PDXMAP_BORDERS:0 "Assassinat de Jaurès"
- LOAD_GFX_PDXMAP_TEXTURES:0 "Restauration de la Monarchie"
+ LOAD_GFX_PDXMAP_TEXTURES:9 "Hiding Burgundy"
  LOAD_GFX_PDXMAP_TREES:0 "Tirer sur les Italiens"
  LOAD_GFX_PDXMAP_RIVERS:0 "Plaidoyer pour les socialistes"
  LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "Demander la prochaine mise à jour"
@@ -206,7 +209,7 @@
  PRECALC_NAVAL_DIST:0 "Faire tourner le gorille"
  EXITING_TO_FRONTEND:0 "Des cris au Kenya"
  LOAD_INIT:0 "Préparer une invasion navale"
- LOAD_FLAGS:0 "Sauver la démocratie américaine"
+ LOAD_FLAGS:9 "Coding Vietnam"
  PROC_FLAGS:0 "Commander le Kuomintang"
  INIT_MAP_LOGIC:0 "Fuir vers le Canada"
  INIT_GAMESTATE:0 "Traiter l'Homme Malade"

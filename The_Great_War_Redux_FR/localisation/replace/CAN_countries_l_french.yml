@@ -1,0 +1,33 @@
+﻿l_french:
+ 
+ CAN_fascism:9 "Empire du Canada"
+ CAN_fascism_DEF:9 "l'Empire du Canada"
+ CAN_fascism_ADJ:0 "Canadien"
+ 
+ CAN_democratic:0 "Canada"
+ CAN_democratic_DEF:0 "le Canada"
+ CAN_democratic_ADJ:0 "Canadien"
+ 
+ CAN_neutrality:9 "Kingdom of Canada"
+ CAN_neutrality_DEF:9 "the Kingdom of Canada"
+ CAN_neutrality_ADJ:0 "Canadien"
+ 
+ CAN_monarchist_empire:9 "Canadian Empire"
+ CAN_monarchist_empire_DEF:9 "the Canadian Empire"
+ CAN_monarchist_empire_ADJ:9 "Canadian"
+ 
+ CAN_communism:9 "Socialist Republic of Canada"
+ CAN_communism_DEF:9 "the Socialist Republic of Canada"
+ CAN_communism_ADJ:0 "Canadien"
+ 
+ CAN:9 "Canada"
+ CAN_DEF:9 "Canada"
+ CAN_ADJ:9 "Canadian"
+ 
+ CAN_democratic_republic:9 "Republic of Canada"
+ CAN_democratic_republic_DEF:9 "the Republic of Canada"
+ CAN_democratic_republic_ADJ:9 "Canadian"
+ 
+ MEX_monarchist_empire:9 "Third Mexican Empire"
+ MEX_monarchist_empire_DEF:9 "the Third Mexican Empire"
+ MEX_monarchist_empire_ADJ:9 "Mexican"

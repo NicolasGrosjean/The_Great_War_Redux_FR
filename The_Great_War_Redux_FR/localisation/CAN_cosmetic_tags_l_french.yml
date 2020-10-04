@@ -1,0 +1,19 @@
+﻿l_french:
+ CUB_CAN_autonomy_dominion:9 "Dominion of the Carribean"
+ CUB_CAN_autonomy_colony:9 "Canadian Carribean Colonies"
+ CUB_CAN_autonomy_puppet:9 "Canadian Islands of the Carribean"
+ CUB_CAN_autonomy_integrated_puppet:9 "Canadian Carribean"
+ CUB_CAN_autonomy_dominion_DEF:9 "the Dominion of the Carribean"
+ CUB_CAN_autonomy_colony_DEF:9 "the Canadian Carribean Colonies"
+ CUB_CAN_autonomy_puppet_DEF:9 "the Canadian Islands of the Carribean"
+ CUB_CAN_autonomy_integrated_puppet_DEF:9 "Canadian Carribean"
+ 
+ USA_CAN_autonomy_dominion:9 "Dominion of America"
+ USA_CAN_autonomy_colony:9 "Canadian Southern Colonies"
+ USA_CAN_autonomy_puppet:9 "Canadian States of America"
+ USA_CAN_autonomy_integrated_puppet:9 "Canadian America"
+ USA_CAN_autonomy_dominion_DEF:9 "The Dominion of America"
+ USA_CAN_autonomy_colony_DEF:9 "The Canadian Southern Colonies"
+ USA_CAN_autonomy_puppet_DEF:9 "The Canadian States of America"
+ USA_CAN_autonomy_integrated_puppet_DEF:9 "Canadian America"
+ 

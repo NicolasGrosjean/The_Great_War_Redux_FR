@@ -209,19 +209,19 @@
  infantry_at2_desc:0 "For infantry to effectively engage heavier armored units, high-explosive anti-tank weapons need to be made smaller and lighter."
 
  support_weapons:0 "Armes de Soutien Précoces I"
- support_weapons_desc:0 "Armes de Soutien Précoces I"
+ support_weapons_desc:9 "Standardized machine guns of the pre-war era."
  support_weapons2:0 "Armes de Soutien Précoces II"
- support_weapons2_desc:0 "Armes de Soutien Précoces II"
+ support_weapons2_desc:9 "Advanced optics for sniper rifles and surveillance devices."
  support_weapons3:0 "Armes de Soutien Précoces III"
- support_weapons3_desc:0 "Armes de Soutien Précoces III"
+ support_weapons3_desc:9 "Easel machine guns now have upgraded locks, the spread of fire is minimized."
  support_weapons4:0 "Armes de Soutien I"
- support_weapons4_desc:0 "Les armes automatiques deviennent plus facilement portables. Les mitraillettes ont prouvé leur efficacité et le développement de ces armes de poing doit continuer!"
+ support_weapons4_desc:9 "Flamethrowers are especially effective for smoking the enemy out of trenches."
  support_weapons5:0 "Armes de Soutien II"
- support_weapons5_desc:0 "Le développement des armes automatiques qui combinent les aspect des mitrailleuses lourdes et légères permet la polyvalence dans l'usage de l'équipement des fantassins."
+ support_weapons5_desc:9 "Machine gun dimensions are greatly reduced. New machine guns can be used as a support weapon, as well as in assault groups."
  support_weapons6:0 "Armes de Soutien III"
- support_weapons6_desc:0 "Tout en maintenant et en améliorant la fiabilité des mitrailleuses, nous pouvons aussi expérimenter un taux de coups par minute bien plus élevé, afin d'assurer la létalité du déluge de balles."
+ support_weapons6_desc:9 "The experience of the Great War will improve the design of the machine gun and reorganize support groups."
  support_weapons7:0 "Armes de Soutien IV"
- support_weapons7_desc:0 "Avec l'utilisation accrue des fusils d'assauts, développer des armes automatiques fiables qui puissent être utilisés dans n'importe quel environnement par tous les soldats est une priorité pour l'armée moderne."
+ support_weapons7_desc:9 "Reliability, rate of fire, mobility of machine guns reached the highest levels thanks to the engineering experience of the post-war period."
 
 
 
@@ -539,7 +539,7 @@
  torpedotech3_desc:0 "Torpilles mues par une machine à vapeur alimentée par un mélange d'air comprimé et de vapeur."
 
 
- chemical_research:0 "Études chimiques"
+ chemical_research:9 "Chemistry Basics"
  chemical_research_desc:0 "Une substance chimique est une forme de matière qui a une composition chimique constante et des propriétés caractéristiques."
  chemical_research2:0 "Gaz moutarde"
  chemical_research2_desc:0 "Le Gaz Moutarde était à l'origine nommé LOST, il fut nommé ainsi après que les scientifiques Wilhelm Lommel et Wilhelm Steinkopf, développèrent une méthode pour la production à grande échelle pour l'armée impériale allemande en 1916."
@@ -793,7 +793,7 @@
  submarine_offensive_bs_desc:0 "Reaching the pinnacle of communication between our submarines allows them to go on the offensive. Let us destroy the enemy trade convoys faster than they can replace them."
  trade_interdiction:0 "Trade Interdiction"
  trade_interdiction_desc:0 "The sooner we spot the enemy ships, the sooner we can destroy them. Hit their trade convoys and escape before they have time to react.\n\n"
- unrestricted_submarine_warfare:0 "Unrestricted Submarine Warfare"
+ unrestricted_submarine_warfare:0 "Guerre sous-marine sans restriction"
  unrestricted_submarine_warfare_desc:0 "Let our submarines sink any vessel without warning, civilian or not. While some consider this a breach of the rules of war, there is no denying its effectiveness."
  wolfpacks:0 "Wolf packs"
  wolfpacks_desc:0 "With our submarines organized into packs the coordination between them is greatly improved. Once an enemy is located our submarine lies in wait until the rest of the pack arrives, attacking only when the odds are overwhelmingly in our favor."
@@ -876,7 +876,7 @@
  INFILTRATION_LABEL_TT:0 "Focus on deception and unconventional infantry strategies."
  DEEP_BATTLE_LABEL:0 "DEEP BATTLE"
  DEEP_BATTLE_LABEL_TT:0 "Improve support and abilities to strike deep into enemy territory."
- MASS_MOBILIZATION_LABEL:0 "MASS MOBILIZATION"
+ MASS_MOBILIZATION_LABEL:0 "MOBILISATION DE MASSE"
  MASS_MOBILIZATION_LABEL_TT:0 "Maximize recruitment and strength in numbers."
  FLEET_IN_BEING_DESC:0 "A strong fleet focused around battleships means that we are a force to be reckoned with when deployed at sea."
  TRADE_INTERDICTION_DESC:0 "Against a stronger naval opponent we can focus on tying up their fleet and destroying supply lines to starve their war machine."
