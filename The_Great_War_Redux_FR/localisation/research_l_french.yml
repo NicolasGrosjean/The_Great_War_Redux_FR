@@ -539,7 +539,7 @@
  torpedotech3_desc:0 "Torpilles mues par une machine à vapeur alimentée par un mélange d'air comprimé et de vapeur."
 
 
- chemical_research:0 "Recherche chimique"
+ chemical_research:0 "Études chimiques"
  chemical_research_desc:0 "Une substance chimique est une forme de matière qui a une composition chimique constante et des propriétés caractéristiques."
  chemical_research2:0 "Gaz moutarde"
  chemical_research2_desc:0 "Le Gaz Moutarde était à l'origine nommé LOST, il fut nommé ainsi après que les scientifiques Wilhelm Lommel et Wilhelm Steinkopf, développèrent une méthode pour la production à grande échelle pour l'armée impériale allemande en 1916."
@@ -793,7 +793,7 @@
  submarine_offensive_bs_desc:0 "Reaching the pinnacle of communication between our submarines allows them to go on the offensive. Let us destroy the enemy trade convoys faster than they can replace them."
  trade_interdiction:0 "Trade Interdiction"
  trade_interdiction_desc:0 "The sooner we spot the enemy ships, the sooner we can destroy them. Hit their trade convoys and escape before they have time to react.\n\n"
- unrestricted_submarine_warfare:0 "Guerre sous-marine sans restriction"
+ unrestricted_submarine_warfare:0 "Unrestricted Submarine Warfare"
  unrestricted_submarine_warfare_desc:0 "Let our submarines sink any vessel without warning, civilian or not. While some consider this a breach of the rules of war, there is no denying its effectiveness."
  wolfpacks:0 "Wolf packs"
  wolfpacks_desc:0 "With our submarines organized into packs the coordination between them is greatly improved. Once an enemy is located our submarine lies in wait until the rest of the pack arrives, attacking only when the odds are overwhelmingly in our favor."
@@ -876,7 +876,7 @@
  INFILTRATION_LABEL_TT:0 "Focus on deception and unconventional infantry strategies."
  DEEP_BATTLE_LABEL:0 "DEEP BATTLE"
  DEEP_BATTLE_LABEL_TT:0 "Improve support and abilities to strike deep into enemy territory."
- MASS_MOBILIZATION_LABEL:0 "MOBILISATION DE MASSE"
+ MASS_MOBILIZATION_LABEL:0 "MASS MOBILIZATION"
  MASS_MOBILIZATION_LABEL_TT:0 "Maximize recruitment and strength in numbers."
  FLEET_IN_BEING_DESC:0 "A strong fleet focused around battleships means that we are a force to be reckoned with when deployed at sea."
  TRADE_INTERDICTION_DESC:0 "Against a stronger naval opponent we can focus on tying up their fleet and destroying supply lines to starve their war machine."

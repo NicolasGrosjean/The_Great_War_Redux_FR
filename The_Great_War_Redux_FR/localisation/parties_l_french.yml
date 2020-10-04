@@ -93,6 +93,7 @@
  AUH_democratic_party:0 "SDAPÖ"
  AUH_democratic_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs"
  AUH_communism_party:0 "KPÖ"
+ AUH_communism_party_long:0 "Kommunistische Partei Österreichs"
  AUH_fascism_party:0 "DAP"
  AUH_fascism_party_long:0 "Deutsche Arbeiterpartei"
  
@@ -129,6 +130,7 @@
  POL_pilsudski_party:0 "Sejm Ustawodawczy"
  POL_fascism_party:9 "ZLN"
  POL_fascism_party_long:9 "Związek Ludowo-Narodowy"
+ 
  
  ENG_communism_party:0 "Communist Unity Group"
  ENG_labour_party:0 "Labour Party"
@@ -219,14 +221,7 @@
  ITA_communism_party_long:0 "Partito Socialista Italiano"
  ITA_democratic_party:0 "Partito Repubblicano Italiano"
  ITA_fascism_party:0 "Movimento Fascista"
- ITA_fascism_party_long:0 "Associazione Nazionalista Italiana"
- ITA_fascism_fasces_party:0 "FIC"
- ITA_fascism_fasces_party_long:0 "Fasci Italiani di Combattimento"
- ITA_fascism_fascist_party:0 "PNF"
- ITA_fascism_fascist_party_long:0 "Partito Nazionale Fascista"
  ITA_neutrality_party:0 "House of Savoy"
- 
- ITS_neutrality_party:0 "House of Bourbon-Parma"
 
  JAP_communism_party:0 "Nihon Kyosan-to"
  JAP_democratic_party:0 "Rikken Minseito"
@@ -276,7 +271,6 @@
  SOV_communism_party_dictatorship_long:0 "All-Russian Communist Party"
  
  AUS_fascism_party:0 "DNSAP"
- AUS_fascism_party_long:0 "Deutsche Nationalsozialistische Arbeiterpartei"
  AUS_communism_party:0 "KPÖ"
  AUS_communism_party_long:0 "Kommunistische Partei Österreichs"
  AUS_democratic_party:0 "SDAPÖ"
@@ -342,12 +336,9 @@
  SWE_democratic_party_long:0 "Moderata samlingspartiet"
  SWE_neutrality_party:0 "House of Bernadotte"
  
- FIN_royal_house:0 "House of Hesse"
  FIN_neutrality_party:0 "Kesk"
  FIN_democratic_party:0 "KOK"
  FIN_democratic_party_long:0 "Kansallinen Kokoomus"
- FIN_democratic_liberal_party:0 "KE"
- FIN_democratic_partyl_liberal_long:0 "Kansallinen Edistyspuolue"
  FIN_communism_party:0 "SKP"
  FIN_communism_party_long:0 "Suomen Kommunistinen Puolue"
  
@@ -393,10 +384,6 @@
  BRA_communism_cbt_party_long:9 "Confederação Brasileira do Trabalho"
  BRA_communism_maximalist_party:9 "UMB"
  BRA_communism_maximalist_party_long:9 "União Maximalista Brasileira"
- BRA_communism_PCB_party:0 "PCB"
- BRA_communism_PCB_party_long:0 "Partido Comunista Brasileiro"
- BRA_communism_KR_party:0 "PSB"
- BRA_communism_KR_party_long:0 "Partido Sindicalista Brasileiro"
  BRA_neutrality_party:0 "República Velha"
  BRA_neutrality_party_long:0 "República Velha"
  BRA_house_of_orleans_braganza:9 "Orléans-Braganza"
@@ -415,7 +402,6 @@
  BRA_liberal_republican_party:9 "PRL"
  BRA_liberal_republican_party_long:9 "Partido Republicano Liberal"
  BRA_liberal_party:9 "Partido Liberal"
- BRA_republican_reaction_party:0 "Reação Republicana"
  
  TUR_fascism_party:0 "Islamic Party"
  TUR_communism_party:0 "Sosyalist Firkasi"
@@ -429,8 +415,6 @@
  HUN_communism_party:0 "KMP"
  HUN_communism_party_long:0 "Kommunisták Magyarországi Pártja"
  HUN_neutrality_party:0 "Regency"
- HUN_fascism_party:0 "MOVE"
- HUN_fascism_party_long:0 "Magyar Országos Véderő Egylet"
  
  ROM_neutrality_party:0 "House of Hohenzollern"
  ROM_neutrality_party_long:0 "House of Hohenzollern-Sigmaringen"
@@ -439,11 +423,18 @@
  ROM_democratic_party_long:0 "Partidul National Liberal"
  ROM_fascism_party:0 "PND"
  ROM_fascism_party_long:0 "Partidul Nationalist-Democrat"
+ 
+ YUG_communism_party:0 "KPJ"
+ YUG_communism_party_long:0 "Komunisticna partija Jugoslavije"
+ YUG_democratic_party:0 "Demokratska stranka"
+ YUG_democratic_party_long:0 "Jugoslovanska demokratska stranka"
+ YUG_neutrality_party:0 "Regency Council"
+ YUG_fascism_party:0 "JRZ"
+ YUG_fascism_party_long:0 "Jugoslovanska radikalna skupnost"
 
  SER_communism_party:9 "Komunisti"
  SER_communism_party_long:9 "Serbian Social Democratic Party"
  SER_democratic_party:0 "People's Radical Party"
- SER_democratic_party_long:0 "Narodna Radikalna Stranka"
  SER_fascism_party:9 "Black Hand"
  SER_fascism_party_long:9 "Ujedinjenje ili smrt"
  SER_neutrality_party:9 "Kara-Georgevitch"
@@ -454,7 +445,9 @@
  BUL_communism_party:0 "Narrow Socialists"
  BUL_communism_party_long:0 "Bulgarian Social Democratic Workers' Party"
  BUL_democratic_party:0 "ULSDP"
+ BUL_democratic_party_long:0 "United Labour Social Democratic Party"
  BUL_fascism_party:0 "Black Bloc"
+ BUL_fascism_party_long:0 "Black Bloc"
  BUL_liberal_party:0 "Radoslavists"
  BUL_liberal_party_long:0 "Radoslavists"
  BUL_agrarian_party:0 "BZNS"
@@ -470,7 +463,6 @@
  NZL_neutrality_party:0 "General Governorship"
  NZL_democratic_party:0 "Liberal Party"
  NZL_democratic_party_long:0 "New Zealand Liberal Party"
- NZL_democratic_party_reform:0 "Reform Party"
  NZL_communism_party:0 "WSP"
  NZL_communism_party_long:0 "Wellington Socialist Party"
  
@@ -495,16 +487,16 @@
  BEL_democratic_party:0 "Parti catholique"
  BEL_neutrality_party:0 "House of Saxe-Coburg"
  BEL_neutrality_party_long:0 "House of Saxe-Coburg and Gotha"
+ BEL_hohenzollern:9 "House of Prussia-Burgundy"
  BEL_resistance:9 "LPLRSM-ZMLVZM"
  BEL_resistance_long:9 "La Plus Loyale Résistance de Sa Majesté-Zijn Meest Loyale Verzet van Zijne Majesteit"
  
- SWI_fascism_party:0 "SVV"
- SWI_fascism_party_long:0 "Schweizerischer Vaterländischer Verband"
  SWI_communism_party:0 "KPS"
  SWI_communism_party_long:0 "Kommunistische Partei der Schweiz"
  SWI_democratic_party:0 "Federal Council"
  SWI_democratic_party_long:0 "Federal Council"
  SWI_neutrality_party:0 "FDP"
+ SWI_neutrality_party_long:0 "Freisinnig-Demokratische Partei"
  
  RAJ_neutrality_party:0 "Indian Governorship"
  RAJ_neutrality_party_long:0 "Indian Governorship"
@@ -520,6 +512,7 @@
  RAJ_princes_long:9 "Princeley States' Influence on Indian Government"
  
  PER_communism_party:9 "Unity of Islam"
+ PER_communism_party_long:9 "Unity of Islam Party"
  PER_democratic_party:9 "Democrat Party"
  PER_neutrality_party:0 "Qajar Dynasty"
  
@@ -532,17 +525,7 @@
  CZE_communism_party_long:0 "Komunistická strana Ceskoslovenska"
  CZE_democratic_party:0 "Pokroková"
  CZE_democratic_party_long:0 "Česká strana pokroková"
- CZE_neutrality_party:0 "Konzervativní Strana"
- CZE_neutrality_party_long:0 "Katolicko-Národně Konzervativní Strana v Čechách"
  
- SLO_fascism_party:0 "HSLS"
- SLO_fascism_party_long:0 "Hlinkova Slovenská Ludová Strana"
- SLO_communism_party:0 "KSS"
- SLO_communism_party_long:0 "Komunistická Strana Slovenská"
- SLO_democratic_party:0 "SNS"
- SLO_democratic_party_long:0 "Slovenská Národná Strana"
- SLO_neutrality_party:0 "Československé Légie"
-  
  CHL_democratic_party:0 "Partido Nacional"
  CHL_communism_party:0 "POS"
  CHL_communism_party_long:0 "Partido Obrero Socialista"
@@ -555,8 +538,6 @@
  
  BOL_democratic_party:9 "Partido Demócrata"
  BOL_neutrality_party:9 "Partido Liberal"
- BOL_fascism_party:0 "Junta de Gobierno"
- BOL_communism_party:0 "Partido Socialista"
  
  NIC_democratic_party:0 "Partido Democrático"
  NIC_neutrality_party:9 "Partido Conservador"
@@ -648,8 +629,6 @@
  TAN_democratic_party:0 "House of Tsin"
  
  PAR_democratic_party:0 "Partido Azul"
- PAR_neutrality_party:0 "Partido Rojo"
- PAR_communism_party:0 "Partido Obrero"
  
  CUB_democratic_party:0 "PLA"
  CUB_democratic_party_long:0 "Partido Liberal Autonomista"
@@ -660,16 +639,8 @@
  HAI_democratic_party:0 "Partido Liberal"
  HAI_neutrality_party:0 "Partido Nacional"
  
- KOR_fascism_party:0 "Korean Junta"
- KOR_fascism_party_long:0 "Korean Junta"
- KOR_communism_party:0 "KSP"
- KOR_communism_party_long:0 "Korean Socialist Party"
  KOR_democratic_party:0 "Liberal Party"
- KOR_democratic_party_long:0 "Provisional Government of the Republic of Korea"
  KOR_neutrality_party:0 "House of Yi"
- KOR_neutrality_party_long:0 "The Imperial Family of Korea"
- KOR_march_one_movement:0 "March 1st Movement"
- KOR_march_one_movement_long:0 "Provisional Government of the Republic of Korea"
  
  ICE_democratic_party:0 "Progress Party"
  ICE_communism_party:0 "People's Unity Party"
@@ -706,7 +677,6 @@
  PAL_neutrality_party:0 "Loyalists"
  
  MNT_democratic_party:0 "People's Party"
- MNT_democratic_party_long:0 "Narodna Stranka"
  MNT_neutrality_party:0 "Petrović-Njegoš"
  MNT_neutrality_party_long:0 "Petrović-Njegoš Dynasty"
  
@@ -804,7 +774,6 @@
  GAL_communism_party_long:9 "Polska Partia Socjalistyczna"
  
  CRO_democratic_party:0 "Narodna stranka"
- CRO_neutrality_party:0 "Stranka Prava"
 
  BOS_democratic_party:0 "Serb People's Party"
  
@@ -836,25 +805,4 @@
  RGS_communism_party:9 "União Maximalista"
  RGS_communism_party_long:9 "União Maximalista de Porto Alegre"
  RGS_fascism_party:9 "Contestadores"
- 
- SHL_democratic_party:0 "SHBLD"
- SHL_democratic_party_long:0 "Schleswig-Holsteinische Bauern- und Landarbeiterdemokratie"
- SHL_fascism_party:0 "SHLP"
- SHL_fascism_party_long:0 "Schleswig-Holsteinische Landespartei"
- 
- KUW_neutrality_party:0 "House of Al Sabah"
- 
- ERI_neutrality_party:0 "Bahri Negash"
- 
- TAJ_neutrality_party:0 "Qungrat Dynasty"
- TAJ_communism_party:0 "CPK"
- TAJ_communism_party_long:0 "Communist Party of Khorezm"
- TAJ_democratic_party:0 "Young Khivans"
- TAJ_fascism_party:0 "Basmachi"
- 
- UZB_neutrality_party:0 "Manghud Dynasty"
- UZB_democratic_party:0 "Young Bukharians"
- UZB_communism_party:0 "BCP"
- UZB_communism_party_long:0 "Bukharan Communist Party"
- UZB_fascism_party:0 "Basmachi"
  
