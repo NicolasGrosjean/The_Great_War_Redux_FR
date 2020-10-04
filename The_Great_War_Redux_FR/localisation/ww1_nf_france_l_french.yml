@@ -8,56 +8,56 @@
 FRA_ww1_army_effort_desc:0 "L'armée allemande est plus nombreuse. Pire encore, elle est plus expérimentée que la nôtre, et compte encore beaucoup de vétérans de la dernière guerre qui nous a opposés. Si nous voulons que la France devienne une sérieuse menace pour les intérêts allemands, nous devons inverser ce scénario, moderniser notre armée et également moderniser son commandement!"
 
 FRA_ww1_trenchwarfare:0 "Guerre des Tranchées"
-FRA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
+ FRA_ww1_trenchwarfare_desc:0 ""
 
-FRA_ww1_artillery_effort_1:0 "Développement de l'Artillerie"
-FRA_ww1_artillery_effort_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_1:0 "Développement de l'artillerie"
+ FRA_ww1_artillery_effort_1_desc:0 ""
 
 FRA_ww1_artillery_effort_2:0 "Développement de l'Artillerie II"
 
-FRA_ww1_artillery_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_2_desc:0 ""
 
 FRA_ww1_artillery_effort_3:0 "Développement de l'Artillerie III"
-FRA_ww1_artillery_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_3_desc:0 ""
 
 FRA_ww1_artillery_effort_4:0 "Développement de l'Artillerie IV"
-FRA_ww1_artillery_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_4_desc:0 ""
 
 FRA_ww1_special_forces:0 "Priorité aux Forces Spéciales"
-FRA_ww1_special_forces_desc:0 "" #KAISER_ANONY
+ FRA_ww1_special_forces_desc:0 ""
 
 FRA_ww1_army_motorization_focus:0 "Priorité à la motorisation"
-FRA_ww1_army_motorization_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_army_motorization_focus_desc:0 ""
 
-FRA_ww1_doctrine_effort:0 "Développement des Doctrines"
-FRA_ww1_doctrine_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_doctrine_effort:0 "Développement des doctrines"
+ FRA_ww1_doctrine_effort_desc:0 ""
 
-FRA_ww1_doctrine_effort_2:0 "Développement des Doctrines II"
-FRA_ww1_doctrine_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_doctrine_effort_2:0 "Développement des doctrines II"
+ FRA_ww1_doctrine_effort_2_desc:0 ""
 
 FRA_ww1_doctrine_effort_3:0 "Développement des Doctrines III"
-FRA_ww1_doctrine_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_doctrine_effort_3_desc:0 ""
 
-FRA_ww1_equipment_effort:0 "Développement du Matériel"
-FRA_ww1_equipment_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort:0 "Développement du matériel"
+ FRA_ww1_equipment_effort_desc:0 ""
 
-FRA_ww1_equipment_effort_2:0 "Développement du Matériel II"
-FRA_ww1_equipment_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort_2:0 "Développement du matériel II"
+ FRA_ww1_equipment_effort_2_desc:0 ""
 
-FRA_ww1_equipment_effort_3:0 "Développement du Matériel III"
-FRA_ww1_equipment_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort_3:0 "Développement du matériel III"
+ FRA_ww1_equipment_effort_3_desc:0 ""
 
 FRA_ww1_equipment_effort_4:0 "Développement du Matériel IV"
-FRA_ww1_equipment_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort_4_desc:0 ""
 
-FRA_ww1_armor_effort_1:0 "Développement des Blindés"
-FRA_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_armor_effort_1:0 "Développement des blindés"
+ FRA_ww1_armor_effort_1_desc:0 ""
 
 FRA_ww1_armor_effort_2:0 "Développement des Blindés II"
-FRA_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_armor_effort_2_desc:0 ""
 
 FRA_ww1_gasmask_focus:0 "Priorité à la Guerre Chimique"
-FRA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_gasmask_focus_desc:0 ""
 #--------------------------------------------------------------
 
 
@@ -66,108 +66,108 @@ FRA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
 
 
  FRA_ww1_airship_focus:0 "Priorité aux Dirigeables"
- FRA_ww1_airship_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airship_focus_desc:0 ""
 
  FRA_ww1_aviation_effort:0 "Aéronautique Militaire Française"
  FRA_ww1_aviation_effort_desc:0 "Bien que bon nombre de nos généraux ne soient pas d'avis que la guerre dans les airs aura quelque importance, ils ont déjà eu tort. Si nous commençons à développer des infrastructures et à recruter des concepteurs pour une force aérienne française dès aujourd'hui, et qu'ils s'avèrent utiles, nous serons prêts quand la guerre aérienne commencera vraiment !"
 
-FRA_ww1_fighter_focus:0 "Priorité aux Chasseurs"
-FRA_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
-FRA_ww1_bomber_focus:0 "Priorité aux Bombardiers"
-FRA_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_fighter_focus:0 "Priorité aux chasseurs"
+ FRA_ww1_fighter_focus_desc:0 ""
+ FRA_ww1_bomber_focus:0 "Priorité aux bombardiers"
+ FRA_ww1_bomber_focus_desc:0 ""
 
-FRA_ww1_aviation_effort_2:0 "Développement de l'Aviation"
-FRA_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
-FRA_ww1_aviation_effort_3:0 "Développement de l'Aviation II"
-FRA_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aviation_effort_2:0 "Développement de l'aviation"
+ FRA_ww1_aviation_effort_2_desc:0 ""
+ FRA_ww1_aviation_effort_3:0 "Développement de l'aviation II"
+ FRA_ww1_aviation_effort_3_desc:0 ""
 FRA_ww1_aviation_effort_4:0 "Développement de l'Aviation III"
-FRA_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aviation_effort_4_desc:0 ""
 FRA_ww1_aviation_effort_5:0 "Développement de l'Aviation IV"
-FRA_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aviation_effort_5_desc:0 ""
 
 FRA_ww1_pilotformation_1:0 "Formation des Pilotes"
-FRA_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_pilotformation_1_desc:0 ""
 
 FRA_ww1_pilotformation_2:0 "Formation des Pilotes II"
-FRA_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_pilotformation_2_desc:0 ""
 
 FRA_ww1_aircraftprod_1:0 "Production Aéronautique"
-FRA_ww1_aircraftprod_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aircraftprod_1_desc:0 ""
 
 FRA_ww1_aircraftprod_2:0 "Production Aéronautique II"
-FRA_ww1_aircraftprod_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aircraftprod_2_desc:0 ""
 
 FRA_ww1_airbomb_1:0 "Développement du Bombardement Aérien"
-FRA_ww1_airbomb_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airbomb_1_desc:0 ""
 FRA_ww1_airbomb_2:0 "Développement du Bombardement Aérien II"
-FRA_ww1_airbomb_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airbomb_2_desc:0 ""
 
 FRA_ww1_air_innovation:0 "Priorité à l'Innovation Aérienne"
-FRA_ww1_air_innovation_desc:0 "" #KAISER_ANONY
+ FRA_ww1_air_innovation_desc:0 ""
 
 FRA_ww1_navalair:0 "Développement du Bombardement Naval"
-FRA_ww1_navalair_desc:0 "" #KAISER_ANONY
+ FRA_ww1_navalair_desc:0 ""
  #--------------------------------------------------------------
 
 
  # [FRENCH REPUBLIC] Industrial Effort
  #=========================================================================
-FRA_ww1_industrial_effort:0 "Développement de l'Industrie"
-FRA_ww1_industrial_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_industrial_effort:0 "Développement industriel"
+ FRA_ww1_industrial_effort_desc:0 ""
 
-FRA_ww1_construction_effort:0 "Développement de la Construction"
-FRA_ww1_construction_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_construction_effort:0 "Développement de la construction"
+ FRA_ww1_construction_effort_desc:0 ""
 
-FRA_ww1_construction_effort_2:0 "Développement de la Construction II"
-FRA_ww1_construction_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_construction_effort_2:0 "Développement de la construction II"
+ FRA_ww1_construction_effort_2_desc:0 ""
 
-FRA_ww1_construction_effort_3:0 "Développement de la Construction III"
-FRA_ww1_construction_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_construction_effort_3:0 "Développement de la construction III"
+ FRA_ww1_construction_effort_3_desc:0 ""
 
-FRA_ww1_production_effort:0 "Développement de l'Armement"
-FRA_ww1_production_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_production_effort:0 "Développement de l'armement"
+ FRA_ww1_production_effort_desc:0 ""
 
-FRA_ww1_production_effort_2:0 "Développement de l'Armement II"
-FRA_ww1_production_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_production_effort_2:0 "Développement de l'armement II"
+ FRA_ww1_production_effort_2_desc:0 ""
 
-FRA_ww1_production_effort_3:0 "Développement de l'Armement III"
-FRA_ww1_production_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_production_effort_3:0 "Développement de l'armement III"
+ FRA_ww1_production_effort_3_desc:0 ""
 
 FRA_ww1_dockyard_effort_1:0 "Développement des Arsenaux"
-FRA_ww1_dockyard_effort_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_dockyard_effort_1_desc:0 ""
 
 FRA_ww1_dockyard_effort_2:0 "Développement des Arsenaux II"
-FRA_ww1_dockyard_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_dockyard_effort_2_desc:0 ""
 
 FRA_ww1_dockyard_effort_3:0 "Développement des Arsenaux III"
-FRA_ww1_dockyard_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_dockyard_effort_3_desc:0 ""
 
 FRA_ww1_airfield_expansion_1:0 "Développement des Aérodromes"
-FRA_ww1_airfield_expansion_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airfield_expansion_1_desc:0 ""
 
 FRA_ww1_airfield_expansion_2:0 "Développement des Aérodromes II"
-FRA_ww1_airfield_expansion_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airfield_expansion_2_desc:0 ""
 
 FRA_ww1_airfield_expansion_3:0 "Développement des Aérodromes III"
-FRA_ww1_airfield_expansion_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airfield_expansion_3_desc:0 ""
 
-FRA_ww1_infrastructure_effort:0 "Développement des Infrastructures"
-FRA_ww1_infrastructure_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort:0 "Développement des infrastructures"
+ FRA_ww1_infrastructure_effort_desc:0 ""
 
-FRA_ww1_infrastructure_effort_2:0 "Développement des Infrastructures II"
-FRA_ww1_infrastructure_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort_2:0 "Développement des infrastructures II"
+ FRA_ww1_infrastructure_effort_2_desc:0 ""
 
 FRA_ww1_infrastructure_effort_3:0 "Développement des Infrastructures III"
-FRA_ww1_infrastructure_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort_3_desc:0 ""
 
 FRA_ww1_infrastructure_effort_4:0 "Développement des Infrastructures IV"
-FRA_ww1_infrastructure_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort_4_desc:0 ""
 
-FRA_ww1_extra_tech_slot:0 "Nouvel Emplacement de Recherche"
-FRA_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
+ FRA_ww1_extra_tech_slot:0 "Sciences [Root.GetAdjFP]"
+ FRA_ww1_extra_tech_slot_desc:0 ""
 
-FRA_ww1_extra_tech_slot_2:0 "Nouvel Emplacement de Recherche II"
-FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_extra_tech_slot_2:0 "Recherche [Root.GetAdjFS]"
+ FRA_ww1_extra_tech_slot_2_desc:0 ""
  #--------------------------------------------------------------
 
 
@@ -177,54 +177,54 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_naval_effort_desc:0 "La puissance de la Royal Navy anglaise ne doit pas être un prétexte pour la France à négliger la sienne. Si notre marine devient une partie de notre fierté nationale et peut s'assurer que la Méditerranée est sécurisée quel que soit le parti que choisira l'Italie, nous n'auront pas à rester en arrière quand les Allemands, les Italiens ou les Autrichiens attaqueront, si nous avons une Marine moderne, bien commandée avec des équipages entraînés." #KAISER_ANONY
 
  FRA_ww1_newnavalcanons_1:0 "Développement de l'Artillerie Navale"
- FRA_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_newnavalcanons_1_desc:0 ""
 
  FRA_ww1_newnavalcanons_2:0 "Développement de l'Artillerie Navale II"
- FRA_ww1_newnavalcanons_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_newnavalcanons_2_desc:0 ""
 
  FRA_ww1_newnavalcanons_3:0 "Développement de l'Artillerie Navale III"
- FRA_ww1_newnavalcanons_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_newnavalcanons_3_desc:0 ""
 
  FRA_ww1_dreadnought_effort:0 "Développement des Cuirassés"
- FRA_ww1_dreadnought_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_dreadnought_effort_desc:0 ""
 
- FRA_ww1_flexible_navy:0 "Marine Flexible"
- FRA_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
+ FRA_ww1_flexible_navy:0 "Marine flexible"
+ FRA_ww1_flexible_navy_desc:0 ""
 
- FRA_ww1_large_navy:0 "Grande Marine"
- FRA_ww1_large_navy_desc:0 "" #KAISER_ANONY
+ FRA_ww1_large_navy:0 "Flotte importante"
+ FRA_ww1_large_navy_desc:0 ""
 
  FRA_ww1_navyreform:0 "Déploiement de la Marine"
- FRA_ww1_navyreform_desc:0 "" #KAISER_ANONY
+ FRA_ww1_navyreform_desc:0 ""
 
- FRA_ww1_submarine_effort:0 "Développement des Sous-Marins"
- FRA_ww1_submarine_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_submarine_effort:0 "Développement des sous-marins"
+ FRA_ww1_submarine_effort_desc:0 ""
 
- FRA_ww1_cruiser_effort:0 "Développement des Croiseurs"
- FRA_ww1_cruiser_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_cruiser_effort:0 "Développement des croiseurs"
+ FRA_ww1_cruiser_effort_desc:0 ""
 
- FRA_ww1_destroyer_effort:0 "Développement des Torpilleurs"
- FRA_ww1_destroyer_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_destroyer_effort:0 "Développement des destroyers"
+ FRA_ww1_destroyer_effort_desc:0 ""
 
- FRA_ww1_capital_ships_effort:0 "Développement des vaisseaux-capitaux"
- FRA_ww1_capital_ships_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_capital_ships_effort:0 "Développement des navires capitaux"
+ FRA_ww1_capital_ships_effort_desc:0 ""
 
- FRA_ww1_carrier_focus:0 "Priorité aux navires de transport"
- FRA_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_carrier_focus:0 "Développement des porte-avions"
+ FRA_ww1_carrier_focus_desc:0 ""
 
- FRA_ww1_antisubmarine:0 "Lutte anti-sous-marine"
- FRA_ww1_antisubmarine_desc:0 "" #KAISER_ANONY
+ FRA_ww1_antisubmarine:0 "Guerre anti-sous-marine"
+ FRA_ww1_antisubmarine_desc:0 ""
 
  #--------------------------------------------------------------
 
 
  # [FRENCH REPUBLIC] Political Effort
  #=========================================================================
- FRA_ww1_political_effort:0 "Effort Politique"
- FRA_ww1_political_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_political_effort:0 "Développement politique"
+ FRA_ww1_political_effort_desc:0 ""
 
  FRA_ww1_sovereignist_ethos:0 "Centralisation"
- FRA_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
+ FRA_ww1_sovereignist_ethos_desc:0 ""
 
  FRA_ww1_support_republic:0 "Renforcer l'Autorité Républicaine"
  FRA_ww1_support_republic_desc:0 "Un des héritages de Napoléons fut une République centralisée et forte. Ces derniers temps, les opinions plus libérales ont introduit plus de contrôles et d'équilibres qui affaiblissent notre glorieux état. Toutefois, étant donné de la tension naissante, je suis sûr que le peuple français comprendra si nous revenons sur certains points. Après tout, tout pour l'Alsace-Lorraine, n'est-ce pas? " 
@@ -233,61 +233,61 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_contest_republic_desc:0 "La République est peut-être vieille, mais notre monarchie est encore bien plus ancienne. La France n'est pas résignée au républicanisme. Si nous permettons l'opposition, peut-être pouvons-nous même nous débarrasser d'un tel système, avant que ce ne soit trop tard."
 
  FRA_ww1_internationalism_focus:0 "Internationalisme"
- FRA_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_internationalism_focus_desc:0 ""
 
  FRA_ww1_militarism:0 "Militarisme"
- FRA_ww1_militarism_desc:0 "" #KAISER_ANONY
+ FRA_ww1_militarism_desc:0 ""
 
  FRA_ww1_indoctrination_focus:0 "Endoctrinement"
- FRA_ww1_indoctrination_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_indoctrination_focus_desc:0 ""
 
- FRA_ww1_political_commissars:0 "Comissaires Politiques"
- FRA_ww1_political_commissars_desc:0 "" #KAISER_ANONY
+ FRA_ww1_political_commissars:0 "Commissaires politiques"
+ FRA_ww1_political_commissars_desc:0 ""
 
- FRA_ww1_paramilitarism:0 "Paramilitarisme"
- FRA_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
+ FRA_ww1_paramilitarism:0 "Organisations paramilitaires"
+ FRA_ww1_paramilitarism_desc:0 ""
 
- FRA_ww1_political_correctness:0 "Politiquement Correct"
- FRA_ww1_political_correctness_desc:0 "" #KAISER_ANONY
+ FRA_ww1_political_correctness:0 "Conformité politique"
+ FRA_ww1_political_correctness_desc:0 ""
 
- FRA_ww1_military_youth:0 "Militarisation de la Jeunesse"
- FRA_ww1_military_youth_desc:0 "" #KAISER_ANONY
+ FRA_ww1_military_youth:0 "Militarisation de la jeunesse"
+ FRA_ww1_military_youth_desc:0 ""
 
  FRA_ww1_student_movement_focus:0 "Mouvement Étudiant"
  FRA_ww1_student_movement_focus_desc:0 "La jeunesse de notre pays est brillante, et cela peut nous aider pour nos recherches, particulièrement dans le domaine des doctrines terrestres." #KAISER_ANONY
 
  FRA_ww1_monarchy:0 "Priorité à l'Autoritarisme"
- FRA_ww1_monarchy_desc:0 "" #KAISER_ANONY
+ FRA_ww1_monarchy_desc:0 ""
 
  FRA_ww1_democracy:0 "Priorité à la Démocratie"
- FRA_ww1_democracy_desc:0 "" #KAISER_ANONY
+ FRA_ww1_democracy_desc:0 ""
 
  FRA_ww1_centralizedpower:0 "Bureaucratie"
- FRA_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
+ FRA_ww1_centralizedpower_desc:0 ""
 
  FRA_ww1_freespeech:0 "Liberté d'Expression"
- FRA_ww1_freespeech_desc:0 "" #KAISER_ANONY
+ FRA_ww1_freespeech_desc:0 ""
 
  FRA_ww1_reorganization_act:0 "Loi de Réorganisation"
- FRA_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
+ FRA_ww1_reorganization_act_desc:0 ""
 
  FRA_ww1_limited_rearmament:0 "Réarmement limité"
- FRA_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
+ FRA_ww1_limited_rearmament_desc:0 ""
 
  FRA_ww1_full_rearmament:0 "Réarmement total"
- FRA_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
+ FRA_ww1_full_rearmament_desc:0 ""
 
  FRA_ww1_unitedpeople:0 "Ferveur Patriotique"
- FRA_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
+ FRA_ww1_unitedpeople_desc:0 ""
 
  FRA_ww1_massive_effort:0 "Effort Massif"
- FRA_ww1_massive_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_massive_effort_desc:0 ""
 
  FRA_ww1_fortify_city:0 "Fortifications Civiles"
- FRA_ww1_fortify_city_desc:0 "" #KAISER_ANONY
+ FRA_ww1_fortify_city_desc:0 ""
 
- FRA_ww1_fortify_coast:0 "Défense Côtière"
- FRA_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
+ FRA_ww1_fortify_coast:0 "Défense côtière"
+ FRA_ww1_fortify_coast_desc:0 ""
 
  FRA_ww1_leave_triple_entente:0 "Quitter la Triple Entente"
  FRA_ww1_leave_triple_entente_desc:0 "Depuis que la direction du gouvernement Français à changé drastiquement, nous n'avons plus aucune connection réelle, ou d'intérêt national, pour une alliance avec le Royaume-Uni et la Russie. En fait, beaucoup de nos citoyens soutiennent déjà un retour à la rivalité avec les anglais. Cela présage la fin de la Triple-Entente. "
@@ -421,7 +421,7 @@ FRA_ww1_send_diplomats_desc:0 "Toute l'Europe aime nos diplomates... en tout cas
  
  FRA_ww1_military_factories_desc:0 "La menace de l'empire allemand enfle chaque jour. La France, son peuple, et son armée doivent travailler ensemble pour vaincre ce géant! De nouvelles usines militaires devraient nous aider pour parvenir à ce but."
  
- FRA_ww1_colonial_military_factories:0 "Industries Militaires Coloniales"
+ FRA_ww1_colonial_military_factories:0 "Usines militaires aux colonies"
  FRA_ww1_colonial_military_factories_desc:0 "Établir plus de manufactures dans nos régions coloniales nous assureront que quoi qu'il arrive, nous aurons toujours des capacité de production hors de portée de nos voisins."
  
  FRA_ww1_alone_or_peace_faction_tt:0 "n'est pas dans une faction ou est dans une faction en paix avec [FRA.GetNameDef]."

@@ -11,7 +11,7 @@
  CAN_storm_troopers:9 "Storm Troopers"
  CAN_storm_troopers_desc:9 "Canadian courage and strength has molded the most valuable soldier that can be offered."
  
- CAN_commit_to_war:9 "Commit to the War"
+ CAN_commit_to_war:0 "Engagement dans la guerre"
  
  CAN_cons_crisis:9 "Conscription Crisis Among French Canadians"
  CAN_cons_crisis_desc:9 "Our nation is in a deadlock between French Canadians and Anglo Canadians. We cannot decide what to do about conscription."
@@ -31,7 +31,7 @@
  CAN_canadian_dream:9 "The Canadian Dream"
  CAN_canadian_dream_desc:9 "The everyday Canadian wants to live a simple life, where they can provide for themselves and their family. Their ambitions can be completed with a unified dream for Canada."
  
- CAN_patriation:9 "Patriation"
+ CAN_patriation:0 "Rapatriement de la constitution"
  CAN_patriation_desc:9 "It is time to reduce our ties with England, and become an independent soveriegn state. We will be a Canadian nation spanning from Atlantic to Pacific, just like England."
  
  CAN_republic_americanism:9 "True Freedom"
@@ -107,7 +107,7 @@
  
  CAN_texas_refine:9 "Texas Refineriers"
  
- CAN_war_fueled:9 "War Fueled Economy"
+ CAN_war_fueled:0 "Économie alimentée par la guerre"
  CAN_war_fueled_desc:9 "Canada's economy has been reformed. It is now ready for war."
  
  CAN_new_canada:9 "A New Canada"
@@ -119,13 +119,13 @@
  
  CAN_sub_focus:9 "Submarine Focus"
  
- CAN_destroyer_focus:9 "Destroyer Focus"
+ CAN_destroyer_focus:0 "Priorité aux destroyers"
  
  CAN_pacific_fleet:9 "Pacific Fleet"
  
- CAN_atlantic_fleet:9 "Atlantic Fleet"
+ CAN_atlantic_fleet:0 "Flotte de l'Atlantique"
  
- CAN_fighter_focus:9 "Fighter Focus"
+ CAN_fighter_focus:0 "Priorité aux chasseurs"
  
  CAN_cas_focus:9 "Close Air Support Focus"
  

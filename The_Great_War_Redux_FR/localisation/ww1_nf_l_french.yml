@@ -4,13 +4,13 @@
  #--------------------------------------------------------------
  # [Generic] Army Effort
 
- ww1_army_effort:0 "Modernisation Militaire"
+ ww1_army_effort:0 "Modernisation de l'armée"
  ww1_army_effort_desc:0 "Beaucoup de nos fusils, canons, outils et malheureusement de nos commandants, sont des reliques d’une ère révolue. Avec l’adoption générale de la mitrailleuse Maxim, nous n’avons plus d’autres choix que de nous adapter. Plus vite nous adopterons ces nouvelles armes en circulation, avec les experts nécessaires pour nous apprendre à les utiliser, plus tôt notre armée pourra devenir une force combattante moderne et efficace."
 
  ww1_trenchwarfare:0 "Guerre des Tranchées"
  ww1_trenchwarfare_desc:0 "Depuis que Gatling et Maxim ont introduit leurs armes impies, notre nation est profondément intéressée par les stratégies défensives s’articulant autour des lignes de tranchées, introduites lors de la guerre de Sécession américaine. Nous devrions rechercher des experts de cette théorie pour approfondir nos doctrines militaires futures. "
 
- ww1_artillery_effort_1:0 "Développement de l'Artillerie"
+ ww1_artillery_effort_1:0 "Développement de l'artillerie"
  ww1_artillery_effort_1_desc:0 "Une étape essentielle pour faire progresser notre programme de modernisation militaire est le développement inconditionnel de nos batteries d’artillerie. La recherche de concepteurs pour de nouvelles armes est la première étape logique, et une fois ce projet mis au point, nous allons récolter les avantages d’une toute nouvelle pièce d’artillerie de campagne." 
 
  ww1_artillery_effort_2:0 "Développement de l'Artillerie II"
@@ -31,7 +31,7 @@
  ww1_doctrine_effort_1:0 "Développement des Doctrines I"
  ww1_doctrine_effort_1_desc:0 "Bien que l’ère du personnel général se résumant aux princes du royaume soit révolue, plusieurs de nos généraux et officiers ont été choisis non pour leur talent, mais pour leurs relations ou leurs liens familiaux. Cela conserve leur loyauté, mais les rend peu compétitifs. Nous devrions commencer à les nommer selon leur mérite, mais prenons garde à ne pas laisser trop de membres de la racaille commune prendre du galon…"
 
- ww1_doctrine_effort_2:0 "Développement des Doctrines II"
+ ww1_doctrine_effort_2:0 "Développement des doctrines II"
  ww1_doctrine_effort_2_desc:0 "Bien que notre personnel général ait été jusqu’ici promu en fonction du mérite, ils ne sont pas les seuls pouvant nous aider à améliorer nos doctrines. Un type de chercheur resté inerte depuis le début des années 1800 est le général de salon.  Bien que ces hommes n’aient qu’une expérience très limitée du combat, leur étude de la guerre ne peut être ignorée. Leur intégration pourrait être avantageuse pour nos tactiques militaires." 
 
  ww1_doctrine_effort_3:0 "Développement des Doctrines III"
@@ -40,16 +40,16 @@
  ww1_equipment_effort_1:0 "Développement du Matériel I" #Link me pls
  ww1_equipment_effort_1_desc:0 "Nos généraux ne sont pas la seule vieille garde retenant notre armée au dernier siècle. Nos intendants fonctionnent encore avec certains principes du XIXe siècle. En choisissant les officiers les plus appréciés et au courant des nouvelles tendances, nous pouvons mettre en évidence les défauts de notre armement actuelle, et nous permettre de les corriger et les améliorer, rapidement. Et nous assurer que ces hommes ne deviennent pas TROP populaires !"
 
- ww1_equipment_effort_2:0 "Développement du Matériel II" #Link me pls
+ ww1_equipment_effort_2:0 "Développement du matériel II"
  ww1_equipment_effort_2_desc:0 "Nos nouveaux contremaîtres nous demandent non seulement de nouveaux fusils, mais aussi de nouvelles armes de soutien. L’expérience de ces nouvelles armes a menée à de nouvelles idées comme des fusils mitrailleurs légers, des mortiers de tranchées et des grenades à fusil, qui semblent très utiles, dès l’instant où nous pouvons assigner les bonnes personnes à leur conception et leur production."
 
- ww1_equipment_effort_3:0 "Développement du Matériel III"
+ ww1_equipment_effort_3:0 "Développement du matériel III"
  ww1_equipment_effort_3_desc:0 "Les contremaîtres ont envoyé une lettre de demandes, pour obtenir plus de fusils de tranchées : ceux capables de lancer des grenades à fusil, des hampes à baïonnettes, des optiques de tir, et plus de carabines. Nous pourrions simplement en produire plus, mais il semblerait logique de standardiser notre armement pour les rendre tous capables d’accueillir ces nouvelles améliorations."
 
  ww1_equipment_effort_4:0 "Développement du Matériel IV"
  ww1_equipment_effort_4_desc:0 "Nos contremaîtres nous ont fait malheureusement parvenir une nouvelle liste de demandes. Heureusement, nous avons chargé le service des courriers d’ignorer davantage de leurs doléances. Leur dernière demande réside dans l’équipement du Corps des Ingénieurs : outils, carabines, et ces nouveaux lance-flammes, dès que possible. Bien sûr, donner plus de moyens aux corps d’ingénieurs pourrait nous procurer des avantages non prévus." 
 
- ww1_armor_effort_1:0 "Développement des Blindés"
+ ww1_armor_effort_1:0 "Développement des blindés"
  ww1_armor_effort_1_desc:0 "Nos premiers investissements ont payé ! Les ingénieurs et concepteurs de l’artillerie et de véhicules ont mis au point un tout nouveau type de véhicule qu’ils nous proposent maintenant : un tracteur lourdement blindé avec un canon de campagne. Bien que les premiers prototypes ne soient pas assez avancés pour être utilisés au combat, ils sont très prometteurs, en particulier pour faire pencher l’impasse des tranchées en notre faveur, si ces machines peuvent résister au feu des mitrailleuses comme on nous le garantis."
 
  ww1_armor_effort_2:0 "Développement des Blindés II"
@@ -65,10 +65,10 @@
  ww1_form_air_force:0 "Formation de l'Armée de l'Air" #link me pls
  ww1_form_air_force_desc:0 "Ces nouveaux aéroplanes sont des jouets intéressants, et ont aussi peut-être une certaine valeur militaire. Les pilotes civils peuvent facilement être attirés par notre armée, et les experts pourraient nous apprendre comment utiliser ces nouveaux joujoux dernier cri. Et si ce projet porte ses fruits, nous pouvons gagner un avantage décisif sur nos adversaires restant en arrière dans ce domaine, dans les doctrines aériennes."
 
- ww1_fighter_focus:0 "Développement des Chasseurs" #link me pls
+ ww1_fighter_focus:0 "Priorité aux chasseurs"
  ww1_fighter_focus_desc:0 "La valeur du chasseur n’est pas à remettre en question. Si nous concentrons nos efforts aériens sur la conception et l’usage de ces appareils, nos avions pourraient un jour inonder les cieux, détruire les avions de l’ennemi sans qu’ils puissent s’y opposer et nous procurer un avantage décisif. Bien sûr, le lobby des bombardiers est également intéressant, aussi ne devrions-nous pas mettre tous nos œufs dans le même panier…"
 
- ww1_bomber_focus:0 "Développement des Bombardiers" #link me pls
+ ww1_bomber_focus:0 "Priorité aux bombardiers"
  ww1_bomber_focus_desc:0 "Le bombardier est une machine simple et pratique. Concentre nos conceptions et nos forces de production sur cette classe spécifique d’aéroplanes seraient un bon moyen de nous assurer que nous puissions utiliser l’armée de l’air comme un outil de support de troupes, capable d’aider l’infanterie en détruisant les défenses et les positions ennemies. Bien sûr, les chasseurs peuvent toujours être produits, mais ces bombardiers pourraient gagner la guerre pour nous." 
 
  ww1_airship_focus:0 "Développement des Dirigeables"
@@ -77,7 +77,7 @@
  ww1_aviation_effort_1:0 "Développement de l'Aviation I" #Link me pls
  ww1_aviation_effort_1_desc: "Maintenant que nous avons pour de bon constitué une armée de l’Air, nous avons fait des avancées intéressantes. Plus notablement, nos concepteurs d’aéroplanes ont conçu des prototypes spécifiques pour des rôles précis, plus que des modèles génériques. Utiliser efficacement ces avions, conçus pour des rôles comme l’attaque des aéroplanes ennemis ou le largage de bombes, exigera des tests et des recherches, mais s’avérera avantageuse. "
 
- ww1_aviation_effort_2:0 "Développement de l'Aviation II"
+ ww1_aviation_effort_2:0 "Développement de l'aviation II"
  ww1_aviation_effort_2_desc:0 "Nos efforts pour créer des avions à rôles spécifiques ont résulté dans une grande variété d’appareils, qui permettent de faire beaucoup de choses différentes. La classe de chasseur en particulier a attiré particulièrement la jeunesse, qui en est déjà adepte. Ils ont donné des idées intéressantes pour le futur de notre armée de l’air. Peut-être que nous devrions accorder plus de crédits de leurs idées, pour le bien de nos doctrines." 
 
  ww1_aviation_effort_3:0 "Développement de l'Aviation III"
@@ -117,25 +117,25 @@
  #--------------------------------------------------------------
  # [Generic] Industrial Effort
 
- ww1_industrial_effort:0 "Développement Industriel"
+ ww1_industrial_effort:0 "Développement industriel"
  ww1_industrial_effort_desc:0 "La Révolution Industrielle est toujours en cours, et notre nation a toujours du pain sur la planche pour rester à la pointe. Entamer quelques nouveaux projets ambitieux pour augmenter nos capacités industrielles aurait des effets bénéfiques à court et long termes pour notre nation, et le moindre d’entre eux sera une grande amélioration de notre capacité à armer nos troupes."
 
- ww1_construction_effort:0 " Développement de la Construction"
+ ww1_construction_effort:0 "Développement de la construction"
  ww1_construction_effort_desc:0 "Une entreprise étrangère d’une nation neutre voisine a été fusionnée avec une de nos industries nationales. Si nous encourageons la nouvelle filiale à déplacer leurs usines et leurs emplois dans notre pays, nous verrons une augmentation immédiate de notre industrie civile Bien sûr, nous devrions superviser la construction de ces nouvelles usines..."
 
- ww1_construction_effort_2:0 " Développement de la Construction II"
+ ww1_construction_effort_2:0 "Développement de la construction II"
  ww1_construction_effort_2_desc:0 "Parfois, même dans un marché de libre-échange, l’état doit s’impliquer. Si le gouvernement doit financer la création de nouvelles entreprises, nous devons nous assurer que nous restions compétitifs, et indépendant des importations étrangères, au cas où le commerce pourrait devenir plus difficile." 
 
- ww1_construction_effort_3:0 " Développement de la Construction III"
+ ww1_construction_effort_3:0 "Développement de la construction III"
  ww1_construction_effort_3_desc:0 "Notre expansion industrielle civile est presque achevée, mais il y a toujours à faire. Certains terrains que nous possédons dans une ville peuvent toujours être vendus à une de nos corporations, avec leur accord pour qu’ils y construisent une manufacture. Ceci augmentera encore notre production de marchandises civils et nous donnera plus d’options pour des constructions futures."
 
- ww1_production_effort:0 "Développement de l’Armement"
+ ww1_production_effort:0 "Développement de l'armement"
  ww1_production_effort_desc:0 "La quantité d’armes que nous avons acquises a attiré l’œil d’un industriel sidérurgique local, qui souhaiterai construire une nouvelle usine d’armement dans notre pays. Si nous parrainons cet effort, en l’aidant a acquérir les terrains nécessaires et en lui prodiguant les investisseurs et le talent, nous récolterons davantage que le simple bénéfice d’une nouvelle usine militaire."
 
- ww1_production_effort_2:0 " Développement de l’Armement II"
+ ww1_production_effort_2:0 "Développement de l'armement II"
  ww1_production_effort_2_desc:0 "Une compagnie automobile qui a construit des véhicules de classe militaire pour nous dans le passé a démontré de l’intérêt pour créer une toute nouvelle usine, spécifiquement pour la production militaire, pour conserver sa capacité de production à destination du marché civil. Si nous les aidons à construire cette usine, nous pourrions négocier une accord d’exclusivité, ce qui signifierait une augmentation directe de notre capacité de production militaire."
 
- ww1_production_effort_3:0 " Développement de l’Armement III"
+ ww1_production_effort_3:0 "Développement de l'armement III"
  ww1_production_effort_3_desc:0 "Un concepteur d’avion et un mécanicien se sont présentés à nous avec une nouvelle demande, pour la création d’une usine d’aviation militaire destinée à assembler des avions pour nos armées."
 
  ww1_dockyard_effort_1:0 "Développement des Arsenaux"
@@ -156,10 +156,10 @@
  ww1_airfield_expansion_3:0 " Développement des Aérodromes III"
  ww1_airfield_expansion_3_desc:0 "Établir des pistes d’aérodromes appropriées près des centres urbains majeurs peut nous permettre la création de bases d’approvisionnement faciles, capables de protéger nos domaines de valeur."
 
- ww1_infrastructure_effort:0 " Développement des Infrastructures"
+ ww1_infrastructure_effort:0 "Développement des infrastructures"
  ww1_infrastructure_effort_desc:0 "Avec la croissance de notre industire, le secteur privé demande encore d’augmenter l’investissement dans l’infrastructure, pour soutenir l’économie nationale. Tant que nous le feront, nous d’obtiendrons pas plus d’occasions de créer de nouvelles usines. Bien sûr, l’infrastructure aide aussi notre nation, en augmentant la vitesse et le flux d'approvisionnement de nos troupes, donc ce placement ne pourrait pas être un si mauvais plan." 
 
- ww1_infrastructure_effort_2:0 " Développement des Infrastructures II"
+ ww1_infrastructure_effort_2:0 "Développement des infrastructures II"
  ww1_infrastructure_effort_2_desc:0 "Avec nos industries, chantiers navals et des pistes d'atterrissage qui continuent à s'étendre, il y a toujours plus à investir. Actuellement, le pas en avant logique est dans les chemins de fer, que nous avons en grande partie ignorés jusqu'à présent. L’investissement pour moderniser ceux-ci aidera à déplacer des provisions et des hommes, ainsi qu'a ouvrir de nouvelles zones pour investir dans notre économie."
 
  ww1_infrastructure_effort_3:0 " Développement des Infrastructures III"
@@ -168,10 +168,10 @@
  ww1_infrastructure_effort_4:0 " Développement des Infrastructures IV"
  ww1_infrastructure_effort_4_desc:0 "Certaines ingénieurs des travaux publics otn proposé la création d’un réseau routier des plus ambitieux, conçu pour connecter nos plus grandes villes entre elels, et certaines de nos bases militaires. L’investissement dans ce projet fera de notre infrastructure un objet de convoitise pour le monde entier, toutes les routes mèneront à notre capitale !"
 
- ww1_extra_tech_slot:0 "Emplacement de Recherche Supplémentaire"
+ ww1_extra_tech_slot:0 "Sciences [Root.GetAdjFP]"
  ww1_extra_tech_slot_desc:0 "Avec un secteur industriel aussi étendu et plusieurs de nos esprits les plus brillants aux commandes des manufactures militaires, et du développement militaire, des résultats sont attendus rapidement. Certaines des industries que nous avons soutenu au début ont mis en valeur quelques individus passionnés, qui peuvent mener des recherches intéressantes pour notre nation."
 
- ww1_extra_tech_slot_2:0 " Emplacement de Recherche Supplémentaire II"
+ ww1_extra_tech_slot_2:0 "Recherche [Root.GetAdjFS]"
  ww1_extra_tech_slot_2_desc:0 "Notre important investissement dans l’industrie et l’infrastructure a rapetissé notre pays –heureusement, pas sur la carte-. Quelques esprits brillants des parties les plus obscures de notre pays visitent la capitale plus souvent, et ils ne serait pas particulièrement difficile de les incorporer au service de la Nation."
 
 
@@ -193,35 +193,35 @@
  ww1_dreadnought_effort:0 " Développement des Cuirassés"
  ww1_dreadnought_effort_desc:0 "Depuis que les Britanniques ont révélé la première classe de cuirassé, une course aux armement a été entreprise entre les plus grandes marines du mondes pour construire des cuirassés toujours plus grands et puissants. Si notre pays veut rester à la page, nous devons nous aussi améliorer nos conceptions et produire nos propres dreadnoughts."
 
- ww1_flexible_navy:0 "Marine Flexible"
+ ww1_flexible_navy:0 "Marine flexible"
  ww1_flexible_navy_desc:0 "Une grande masse de navires de guerre nous est complètement inutile si nous ne les utilisons que pour patrouiller un petit carré de mer. Construire une flotte pouvant se déplacer n’importe où et n’importe quand est nécessaire ; avec un nombre suffisant de navires-écran soutenus par un certain nombre de croiseurs de bataille et de cuirassés. Cela nous aidera a contrôler les mers et a pouvoir répondre à une grande variété de menaces, en nous permettant de projeter nos forces à peu près n’importe où dans le monde. "
 
- ww1_large_navy:0 "Grande Marine"
+ ww1_large_navy:0 "Flotte importante"
  ww1_large_navy_desc:0 "Avoir des navires de ligne et des cuirassés est déjà une bonne chose en soi, mais créer un cœur de navires-écrans et de croiseurs cuirassés peut facilement faire pencher la balance en notre faveur et nous ouvrir toutes les options tactiques que ces rôles autorisent, tant qu’ils sont en nombre. Si nous construisons notre marine autour de ce concept et que nous étudions la doctrine correspondante, notre flotte sera tout simplement imbattable."
 
  ww1_navyreform:0 "Déploiement de la Marine"
  ww1_navyreform_desc:0 "Ce n’est pas simplement les canons et les navires qui permettent de gagner une bataille navale. Le meilleur navire du monde est inutile s’il n’est pas au bon moment aubon endroit. Investir dans des canaux de communications directs entre navires ainsi qu’entre la flotte et le port peut nous permettre d’être sûrs que chaque navire sera au bon endroit au bon moment, et soutenir notre suprématie navale." 
 
- ww1_cruiser_effort:0 "Développement des Croiseurs"
+ ww1_cruiser_effort:0 "Développement des croiseurs"
  ww1_cruiser_effort_desc:0 "Nos amiraux appellent à une plus grande flotte et à un investissement d’envergure dans les croiseurs, pour nous conférer des navires de taille moyenne capables d’harceler les navires ennemis et les transports adverses ; et de soutenir de plus grands navires de guerre. Donner les moyens à nos bureaux d’étude de concevoir et construire de nouvelles classes de navires de cette sorte nous aidera contre n’importe quel ennemi avec une grande flotte, et sécurisera nos sous-marins."
 
- ww1_destroyer_effort:0 "Développement des Torpilleurs"
+ ww1_destroyer_effort:0 "Développement des destroyers"
  ww1_destroyer_effort_desc:0 "Nos amiraux ont demandé de développer notre flotte de torpilleurs et de plus grands investissements dans ce domaine. Cela nous donnera des navires plus légers, bons pour lutter contre les submersibles ennemis, la reconnaissance et l’escorte de convois. Commander de meilleurs torpilleurs à nos chantiers navals nous aidera à garder ouvertes nos routes commerciales et à soutenir nos propres sous-marins." 
 
- ww1_capital_ships_effort:0 "Développement des vaisseaux-capitaux"
+ ww1_capital_ships_effort:0 "Développement des navires capitaux"
  ww1_capital_ships_effort_desc:0 "Nos amiraux nous ont envoyé une requête relativement simple : plus de cuirassés, et qu’ils soient plus grands, et plus puissants ! Construire ces navires titanesques nous aidera à contrôler les mers, et nous permettra un bon appui-feu à nos troupes au sol qui débarquent en cas d’invasion navale. "
 
- ww1_carrier_focus:0 "Priorité aux navires de transport"
+ ww1_carrier_focus:0 "Priorité aux porte-avions"
  ww1_carrier_focus_desc:0 "« Quelques esprits radicaux ont proposé un navire désarmé, uniquement pour l’usage de bombardiers navals. C’est un projet très prometteur, même s’il est un peu handicapé par la technologie actuelle. Si nous poursuivons ce projet, peut-être qu’un jour l’aviation aéronavale sera commune..." 
 
- ww1_antisubmarine:0 "Lutte anti-sous-marine"
+ ww1_antisubmarine:0 "Guerre anti-sous-marine"
  ww1_antisubmarine_desc:0 "Les sous-marins sont des navires particulièrement difficiles à attraper, surtout quand ils sont bien pilotés. A moins que nous ayons l’intention de laisser toute notre flotte de transport et de commerce se faire envoyer par le fond, nos amiraux nous ont conseillé de commencer à investir dans les charges de profondeurs, les torpilles avancées et autres armes qui nous permettraient de faire disparaître la menace." 
 
 
  #--------------------------------------------------------------
  # [Generic] Political Effort
 
- ww1_political_effort:0 "Développement politique" #link me pls
+ ww1_political_effort:0 "Développement politique"
  ww1_political_effort_desc:0 "Le temps de la Réforme est venu. La nation a été bien dirigée selon les vieux principes depuis des années, mais ces temps difficiles que nous traversons exigent un gouvernement capable d’y répondre. Si nous voulons pouvoir changer de voie, ou soutenir notre gouvernement actuel afin de résister à des agressions extérieures, le changement politique ne peut que profiter à notre nation et à l’avenir de notre peuple."
 
 
@@ -254,28 +254,28 @@
  ww1_collectivist_ethos:0 "Politique Contestataire" #link me pls
  ww1_collectivist_ethos_desc:0 "Le vieil état est condamné à la chute ; entraînant notre pays avec lui, à moins que nous ne prenions des mesures extrêmes. En adoptant une position plus dure et en bougeant vers une formule gouvernementale plus radicale, nous pourrons nous protéger ainsi que nos intérêts nationaux plus efficacement dans le monde actuel."
 
- ww1_nationalism_focus:0 "Priorité au Nationalisme"
+ ww1_nationalism_focus:0 "Nationalisme"
  ww1_nationalism_focus_desc:0 "La fierté nationale pour notre grand pays se regonfle grâce aux récents événements. Certains des experts politiques de notre pays ont même inventé une nouvelle forme de gouvernement, connu sous le nom de « fascisme », qui puisse prendre racine dans notre pays. Peut-être que cette nouvelle façon de gouverner pourrait mener notre empire à un nouvel âge d’or!"
 
  ww1_militarism:0 "Militarisme"
  ww1_militarism_desc:0 "Notre armée croissante devient de plus en plus partie prenante de la vie quotidienne de notre nation. Heureusement, le soutien populaire favorise nos troupes à l’heure actuelle, car ils les voient comme les héros qu’ils sont, se battant sous notre bannière. Cette culture militaire que nous allons établir servira la cause de nos forces armées."
 
- ww1_military_youth:0 "Jeunesse Militaire"
+ ww1_military_youth:0 "Militarisation de la jeunesse"
  ww1_military_youth_desc:0 "Notre culture militariste doit aussi être présente avec nos enfants ! En forçant le respect de l’armée et en offrant une formation aux jeunes générations, nous pouvons être certains qu’ils grandissent et s’enrôlent pour servir notre glorieux régime. Certains pourraient appeler cela de l’exploitation… mais cela sonne mieux quand on dit que l’on donne un avenir brillant aux adolescents."
 
- ww1_paramilitarism:0 "Paramilitarisme"
+ ww1_paramilitarism:0 "Organisations paramilitaires"
  ww1_paramilitarism_desc:0 "Certains pays sont assez idiots pour condamner les milices armées, craignant les rébellions. Cependant, si nous sommes assez prudents pour limiter celles-ci aux loyalistes du régime, nous pouvons créer un autre groupe d’hommes en colères et armés, pouvant soutenir notre nation. Cela nous sera utile en cas de guerre."
 
  ww1_internationalism_focus:0 "Internationalisme"
  ww1_internationalism_focus_desc:0 "La Révolution Communiste ne peut être arrêtée. Il est bon que notre peuple l’embrasse, et immédiatement, plutôt qu’au moyen d’une guerre civile. Quand nous commenceront à montrer notre soutien pour le Mouvement Communiste Internationaliste, nous devrions aussi rouges que le sang des hommes !"
 
- ww1_political_correctness:0 "Politiquement Correct"
+ ww1_political_correctness:0 "Conformité politique"
  ww1_political_correctness_desc:0 "N’importe qui s’exprimant contre notre gouvernement commet clairement un crime de haine contre le peuple avec qui nous nous tenons. Donc, quelqu’un qui se prononce contre le pouvoir en place devrait être surveillé de près."
 
  ww1_indoctrination:0 "Endoctrinement"
  ww1_indoctrination_desc:0 "Après des années de débats sur la manière d’obtenir des citoyens anticommunistes le soutien pour notre merveilleux nouveau régime, certains des membres du Conseil des Travailleurs ont suggéré l’établissement d’un nouveau « Ministère de l’Amour », qui persuaderait officiellement les gens de soutenir notre gouvernement. Nous ne parlerons pas ici de ce qui se passera officieusement dans ce ministère..."
 
- ww1_political_commissars:0 " Commissaires politiques"
+ ww1_political_commissars:0 "Commissaires politiques"
  ww1_political_commissars_desc:0 "L’Armée est ironiquement un endroit où le sentiment anticommuniste prospère. En nous assurant que notre gouvernement affectueux aie des yeux partout, nous pouvons traquer ces groupes et les empêcher de grandir."
 
  ww1_unitedpeople:0 "Ferveur Patriotique"
@@ -287,7 +287,7 @@
  ww1_fortify_city:0 "Fortifications Civiles"
  ww1_fortify_city_desc:0 "Quand les combats atteindront nos frontières, il est préférable que nous y soyons préparés. En louant le services d’ouvriers du bâtiments pour construire des forteresses et des casemates sur certaines de nos provinces extérieures, nous pouvons tenir à distance l’ennemi qui oserait nous attaquer, et ce sans prendre de risques!"
 
- ww1_fortify_coast:0 "Défense Côtière"
+ ww1_fortify_coast:0 "Défense côtière"
  ww1_fortify_coast_desc:0 "Une côte n’est pas facile à défendre. Avec des navires capables de débarquer des troupes pratiquement n’importe où sur nos rivages, les forts côtiers ne seront pas difficiles à construire et nous seraient d’une grande aide pour rejeter à la mer nos ennemis."
 
 

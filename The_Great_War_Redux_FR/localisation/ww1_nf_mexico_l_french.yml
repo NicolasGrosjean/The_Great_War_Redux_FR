@@ -224,7 +224,7 @@ Mex_extra_tech_slot_2_desc:0 "Notre important investissement dans l’industrie 
 
  # [mexico] Political Effort
  #=========================================================================
- mex_political_effort:0 "Effort politique"
+ mex_political_effort:0 "Développement politique"
  mex_political_effort_desc:0 "Le temps de la réforme est venu. Alors que la nation ai prospéré sous la direction du système de ces bonnes vielles années, les récents temps turbulents exigent un gouvernement qui est en mesure d'y répondre. Que nous choisissions de changer notre façon de gouverner la nation, ou de renforcer notre gouvernement actuel pour faire face aux nouvelles menaces extérieures, le changement politique ne peut que profiter à l'avenir de notre nation et de notre peuple."
 
  mex_ww1_sovereignist_ethos:0 "Soutenir la démocratie de Madero"
@@ -254,22 +254,22 @@ Mex_extra_tech_slot_2_desc:0 "Notre important investissement dans l’industrie 
  mex_militarism:0 "Militarisme"
  mex_militarism_desc:0 "Notre armée croissante devient de plus en plus une partie de la vie quotidienne de notre nation. Heureusement, le soutien populaire favorise actuellement nos troupes, les considérant comme les héros qui se battent pour notre bannière. Cette culture militaire que nous établissons ne fait que favoriser la cause de nos forces armées."
 
- mex_military_youth:0 "Jeunesse militaire"
+ mex_military_youth:0 "Militarisation de la jeunesse"
  mex_military_youth_desc:0 "Notre culture militariste doit même être présente avec les enfants ! En forçant le respect pour les militaires, et même en offrant une formation militaire aux jeunes générations, nous pouvons nous assurer qu'ils grandissent pour s'enrôler au service de notre glorieux régime. Certains pourraient appeler cela de l'embrigadement forcé, mais cela sonne mieux quand vous dites que vous donnez un brillant avenir aux adolescents."
 
- mex_paramilitarism:0 "Paramilitarisme"
+ mex_paramilitarism:0 "Organisations paramilitaires"
  mex_paramilitarism_desc:0 "Certaines nations sont assez sottes pour condamner les groupes civils armés, par crainte de la rébellion. Cependant, si nous prenons soin de limiter ces milices ad hoc aux loyalistes du régime, nous pouvons créer un autre groupe d'hommes en colère avec des armes qui soutiennent notre nation, ce qui pourrait bien nous servir en cas de guerre."
 
  mex_internationalism_focus:0 "Soutenez Emiliano Zapata"
 mex_internationalism_focus_desc:0 "The Communist Revolution cannot be stopped. It is better that our people embrace it and embrace it now, than have a civil war for it later. Once we openly begin our support for the Internationalist Communist Movement, we shall become as red as the blood of man."
 
- mex_political_correctness:0 "Politiquement correct"
+ mex_political_correctness:0 "Conformité politique"
  mex_political_correctness_desc:0 "Toute personne qui dénonce notre mouvement le fait clairement en tant que crime haineux envers les personnes que nous soutenons. Par conséquent, toute personne qui parle du régime doit être surveillée de près et, peut-être, emprisonné."
 
  mex_indoctrination_focus:0 "Endoctrinement"
  mex_indoctrination_focus_desc:0 "Après de nombreuses années de débats sur la façon d'amener les citoyens anti-communistes turbulents à soutenir enfin notre merveilleux nouveau régime, certains des membres du Conseil des Travailleurs ont suggéré la création d'un nouveau "Ministère de l'Amour" qui, officiellement, persuade humainement les gens à comprendre pourquoi ils devraient soutenir notre gouvernement. Nous ne parlons pas de ce qui se passe officieusement là-bas."
 
- mex_political_commissars:0 "Commissaires Politiques"
+ mex_political_commissars:0 "Commissaires politiques"
  mex_political_commissars_desc:0 "L'armée, ironiquement, est un endroit où le soutien anti-communiste prospère. En veillant à ce que notre gouvernement  ait des yeux partout, nous pouvons extirper la dissidence de ces groupes avant qu'elle ne puisse augmenter."
 
  mex_ww1_unitedpeople:0 "Ferveur patriotique"
@@ -281,7 +281,7 @@ mex_internationalism_focus_desc:0 "The Communist Revolution cannot be stopped. I
  mex_ww1_fortify_city:0 "Fortifications Civiles"
  mex_ww1_fortify_city_desc:0 "Quand le combat arrive à nos frontières, mieux vaut être préparé. En engageant des ouvriers de chantier pour construire des forts et des bunkers dans certaines de nos provinces frontalières, nous pouvons en toute sécurité repousser tout ennemi qui oserait nous attaquer !"
 
- mex_ww1_fortify_coast:0 "Défense Côtière"
+ mex_ww1_fortify_coast:0 "Défense côtière"
  mex_ww1_fortify_coast_desc:0 "Un littoral n'est pas une chose facile à défendre. Avec des navires capables de débarquer des troupes sur presque toute côte de notre nation, il nous faut des forts côtiers. Ces structures peu coûteuses peuvent aider contre les invasions marines, et ne sont pas des bâtiments difficiles à construire. Elles aideront à rejeter nos ennemis dans l'océan d'où ils sont venus."
 
  mex_ww1_improve_our_puertos:0 "Améliorer notre marine"
@@ -302,7 +302,7 @@ mex_support_revolucionary_forces_desc:0 "Après 31 ans de dictature brutale, des
  mex_ww1_preserve:0 "Héroïsme"
  mex_ww1_preserve_desc:0 "Il semble qu'au moins un homme dans chaque régiment a une histoire incroyable à raconter sur la bravoure et l'intrigue dans la bataille, à déjouer un ennemi ou à tirer un exploit incroyable. Enchâsser ces hommes dans notre culture et leur donner une place spéciale dans nos divisions conduira le reste de nos troupes à tenter d'imiter ce même succès."
 
- mex_ww1_paramilitarism:0 "Priorité Défensive"
+ mex_ww1_paramilitarism:0 "Priorité à la défense"
  mex_ww1_paramilitarism_desc:0 "Si vous voulez voir la preuve que l'État mexicain est fatigué des combats à l'intérieur de ses propres frontières, il suffit de voir la taille de nos recrues militaires. Nous devons tirer le meilleur parti de cela. Une formation approfondie donnée aux forces de seconde zone peut les amener au même niveau que nos troupes régulières."
 
 MEX_ww1_Strengthen_military_forces:0 "Renforcer les Forces Militaires"
@@ -402,20 +402,20 @@ mex_ww1_supportrussia_desc:0 "The Russian Empire is in pretty dire need of inter
  mex_ww1_equip_ger:0 "Livraisons d'armes aux Puissances Centrales"
  mex_ww1_equip_ger_desc:0 "Pour une raison quelconque, les Allemands veulent nos armes. Pourquoi ne pas leur donner ce qu'ils veulent ?"
 
- mex_neutrality_focus:0 "Focus de Neutralité"
- mex_neutrality_focus_desc:0 "Alors que d'autres peuvent prétendre qu'il faut de la bravoure et de la sagesse pour prendre parti dans un conflit mondial, nous savons qu'il en faut plus pour refuser."
+ mex_neutrality_focus:0 "Neutralité"
+ mex_neutrality_focus_desc:0 "Certains prétendent qu'il faut du courage et du discernement pour choisir son camp lors d'un conflit mondial. Mais nous savons très bien, quant à nous, qu'il en faut plus encore pour ne pas se laisser entraîner à faire un tel choix."
 
- mex_interventionism_focus:0 "Focus d'interventionnisme"
- mex_interventionism_focus_desc:0 "Nous apprécions la liberté de tous les peuples, pas seulement de nos propres citoyens. Si empêcher la tyrannie signifie la guerre, alors qu'il en soit ainsi."
+ mex_interventionism_focus:0 "Interventionnisme"
+ mex_interventionism_focus_desc:0 "Nous chérissons la liberté, non pas seulement pour nos concitoyens, mais aussi pour tous les autres peuples. Si s'opposer à la tyrannie oblige à faire la guerre, eh bien soit !"
 
  mex_deterrence:0 "Dissuasion"
- mex_deterrence_desc:0 "Debout seul, nous bénéficions rarement de la guerre. Heureusement, nous savons que la meilleure défense est une arme si connue que vous n'avez jamais à l'utiliser."
+ mex_deterrence_desc:0 "Lorsque l'on est seul, il est bien difficile de tirer le moindre profit d'une guerre. Fort heureusement, nous savons parfaitement que la meilleure défense possible est encore de ne pas avoir à y recourir."
 
  mex_volunteer_corps:0 "Corps de volontaires"
- mex_volunteer_corps_desc:0 "Forcer notre peuple à mourir pour des idéaux de liberté serait un exercice d'ironie, mais établir des moyens pour ceux qui souhaitent aider les gens à l'étranger ne l'est pas."
+ mex_volunteer_corps_desc:0 "Il serait ironique d'obliger notre peuple à mourir pour défendre la liberté. En revanche, donner les moyens à ceux qui le souhaitent de combattre la tyrannie à l'étranger n'est en rien contraire à nos idéaux."
 
- mex_foreign_expeditions:0 "Expéditions étrangères"
- mex_foreign_expeditions_desc:0 "Avec nos ennemis prêts à intervenir dans des conflits lointains au nom de leurs idéaux, nous devons être prêts à faire de même pour les nôtres."
+ mex_foreign_expeditions:0 "Expéditions à l'étranger"
+ mex_foreign_expeditions_desc:0 "Puisque nos ennemis sont prêts à intervenir dans des conflits lointains au nom de leurs idéaux, nous devons nous préparer à en faire autant pour les nôtres."
 
 mex_why_we_fight:0 "Pourquoi nous Combattons"
 mex_why_we_fight_desc:0 "Chaque jour, le monde devient plus dangereux que la veille. Notre peuple a besoin de voir de ses yeux les atrocités commises par ceux qui détiennent le pouvoir. Il est temps de rallier le peuple à notre cause, et nous assurer que tous sont prêts à combattre pour notre liberté."
@@ -432,7 +432,7 @@ mex_why_we_fight_desc:0 "Chaque jour, le monde devient plus dangereux que la vei
  mex_Invite_Bolivia:0 "Inviter la Bolivie"
  mex_Invite_Bolivia_desc:0 "La Bolivie n'est pas le membre le plus avancé ou le plus remarquable de l'UNASUR, mais ils ont exprimé leur volonté de se joindre à l'UNASUR, et aussi longtemps qu'ils ont un chemin vers notre nation, pourquoi pas ?"
 
- mex_technology_sharing:0 "Partage de Technologie"
- mex_technology_sharing_desc:0 "En partageant les progrès technologiques avec nos alliés, toute notre faction sera en mesure de mener plus efficacement la recherche et le développement en temps de guerre."
+ mex_technology_sharing:0 "Partage technologique"
+ mex_technology_sharing_desc:0 "Si nous partageons nos avancées technologiques avec nos alliés, la recherche et le développement militaires en temps de guerre seront bien plus efficaces pour l'ensemble des pays membres de notre faction."
 
  #--------------------------------------------------------------

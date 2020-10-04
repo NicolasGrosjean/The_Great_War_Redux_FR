@@ -1,8 +1,8 @@
 ﻿l_french:
- CAN_democratic_party:0 "Liberal Party"
- CAN_democratic_party_long:0 "Liberal Party of Canada"
+ CAN_democratic_party:0 "Parti libéral"
+ CAN_democratic_party_long:0 "Parti libéral du Canada"
  
- CAN_democratic_party2:9 "Conservative Party"
+ CAN_democratic_party2:0 "Parti conservateur"
  CAN_democratic_party2_long:9 "Conservative Party of Canada"
  
  CAN_fascism_party:9 "McCarthyites"

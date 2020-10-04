@@ -5,68 +5,68 @@
  # [EMPIRE OF JAPAN] Army Effort
  #=========================================================================
  JAP_ww1_army_effort:0 "Réorganiser l'Armée Impériale Japonaise"
-JAP_ww1_army_effort_desc:0 ""
+ JAP_ww1_army_effort_desc:0 ""
 
 JAP_ww1_trenchwarfare:0 "Guerre des Tranchées"
-JAP_ww1_trenchwarfare_desc:0 ""
+ JAP_ww1_trenchwarfare_desc:0 ""
 
-JAP_ww1_artillery_effort_1:0 "Développement de l'Artillerie"
-JAP_ww1_artillery_effort_1_desc:0 ""
+ JAP_ww1_artillery_effort_1:0 "Développement de l'artillerie"
+ JAP_ww1_artillery_effort_1_desc:0 ""
 
 JAP_ww1_artillery_effort_2:0 "Développement de l'Artillerie II"
 
-JAP_ww1_artillery_effort_2_desc:0 ""
+ JAP_ww1_artillery_effort_2_desc:0 ""
 
 JAP_ww1_artillery_effort_3:0 "Développement de l'Artillerie III"
-JAP_ww1_artillery_effort_3_desc:0 ""
+ JAP_ww1_artillery_effort_3_desc:0 ""
 
 JAP_ww1_artillery_effort_4:0 "Développement de l'Artillerie IV"
-JAP_ww1_artillery_effort_4_desc:0 ""
+ JAP_ww1_artillery_effort_4_desc:0 ""
 
 JAP_ww1_special_forces:0 "Priorité aux Forces Spéciales"
-JAP_ww1_special_forces_desc:0 ""
+ JAP_ww1_special_forces_desc:0 ""
 
 JAP_ww1_army_motorization_focus:0 "Développement de la Motorisation"
-JAP_ww1_army_motorization_focus_desc:0 ""
+ JAP_ww1_army_motorization_focus_desc:0 ""
 
-JAP_ww1_doctrine_effort:0 "Développement des Doctrines"
-JAP_ww1_doctrine_effort_desc:0 ""
+ JAP_ww1_doctrine_effort:0 "Développement des doctrines"
+ JAP_ww1_doctrine_effort_desc:0 ""
 
-JAP_ww1_doctrine_effort_2:0 "Développement des Doctrines II"
-JAP_ww1_doctrine_effort_2_desc:0 ""
+ JAP_ww1_doctrine_effort_2:0 "Développement des doctrines II"
+ JAP_ww1_doctrine_effort_2_desc:0 ""
 
 JAP_ww1_doctrine_effort_3:0 "Développement des Doctrines III"
-JAP_ww1_doctrine_effort_3_desc:0 ""
+ JAP_ww1_doctrine_effort_3_desc:0 ""
 
-JAP_ww1_equipment_effort:0 "Développement du Matériel"
-JAP_ww1_equipment_effort_desc:0 ""
+ JAP_ww1_equipment_effort:0 "Développement du matériel"
+ JAP_ww1_equipment_effort_desc:0 ""
 
-JAP_ww1_equipment_effort_2:0 "Développement du Matériel II"
-JAP_ww1_equipment_effort_2_desc:0 ""
+ JAP_ww1_equipment_effort_2:0 "Développement du matériel II"
+ JAP_ww1_equipment_effort_2_desc:0 ""
 
-JAP_ww1_equipment_effort_3:0 "Développement du Matériel III"
-JAP_ww1_equipment_effort_3_desc:0 ""
+ JAP_ww1_equipment_effort_3:0 "Développement du matériel III"
+ JAP_ww1_equipment_effort_3_desc:0 ""
 
 JAP_ww1_equipment_effort_4:0 "Développement du Matériel IV"
-JAP_ww1_equipment_effort_4_desc:0 ""
+ JAP_ww1_equipment_effort_4_desc:0 ""
 
-JAP_ww1_armor_effort_1:0 "Développement des Blindés"
-JAP_ww1_armor_effort_1_desc:0 ""
+ JAP_ww1_armor_effort_1:0 "Développement des blindés"
+ JAP_ww1_armor_effort_1_desc:0 ""
 
 JAP_ww1_armor_effort_2:0 "Développement des Blindés II"
-JAP_ww1_armor_effort_2_desc:0 ""
+ JAP_ww1_armor_effort_2_desc:0 ""
 
 JAP_ww1_gasmask_focus:0 "Développement de la Guerre Chimique"
-JAP_ww1_gasmask_focus_desc:0 ""
+ JAP_ww1_gasmask_focus_desc:0 ""
 #--------------------------------------------------------------
 
 
  # [EMPIRE OF JAPAN] Aviation Effort
  #=========================================================================
- JAP_ww1_fighter_focus:0 "Priorité à la Chasse"
-  JAP_ww1_fighter_focus_desc:0 ""
+ JAP_ww1_fighter_focus:0 "Priorité aux chasseurs"
+ JAP_ww1_fighter_focus_desc:0 ""
 
- JAP_ww1_bomber_focus:0 "Priorité aux Bombardiers"
+ JAP_ww1_bomber_focus:0 "Priorité aux bombardiers"
  JAP_ww1_bomber_focus_desc:0 ""
 
  JAP_ww1_airship_focus:0 "Priorité aux Dirigeables"
@@ -75,10 +75,10 @@ JAP_ww1_gasmask_focus_desc:0 ""
  JAP_ww1_aviation_effort:0 "Formation de l'Armée de l'Air de l'Armée Impériale Japonaise"
  JAP_ww1_aviation_effort_desc:0 ""
 
- JAP_ww1_aviation_effort_2:0 "Développement de l'Aviation"
+ JAP_ww1_aviation_effort_2:0 "Développement de l'aviation"
  JAP_ww1_aviation_effort_2_desc:0 ""
 
- JAP_ww1_aviation_effort_3:0 "Développement de l'Aviation II"
+ JAP_ww1_aviation_effort_3:0 "Développement de l'aviation II"
  JAP_ww1_aviation_effort_3_desc:0 ""
 
  JAP_ww1_aviation_effort_4:0 "Développement de l'Aviation III"
@@ -117,62 +117,62 @@ JAP_ww1_gasmask_focus_desc:0 ""
  # [EMPIRE OF JAPAN] Industrial Effort
  #=========================================================================
  #=========================================================================
-JAP_ww1_industrial_effort:0 "Développement de l'Industrie"
-JAP_ww1_industrial_effort_desc:0 ""
+ JAP_ww1_industrial_effort:0 "Développement industriel"
+ JAP_ww1_industrial_effort_desc:0 ""
 
-JAP_ww1_construction_effort:0 "Développement de la Construction"
-JAP_ww1_construction_effort_desc:0 ""
+ JAP_ww1_construction_effort:0 "Développement de la construction"
+ JAP_ww1_construction_effort_desc:0 ""
 
-JAP_ww1_construction_effort_2:0 "Développement de la Construction II"
-JAP_ww1_construction_effort_2_desc:0 ""
+ JAP_ww1_construction_effort_2:0 "Développement de la construction II"
+ JAP_ww1_construction_effort_2_desc:0 ""
 
-JAP_ww1_construction_effort_3:0 "Développement de la Construction III"
-JAP_ww1_construction_effort_3_desc:0 ""
+ JAP_ww1_construction_effort_3:0 "Développement de la construction III"
+ JAP_ww1_construction_effort_3_desc:0 ""
 
-JAP_ww1_production_effort:0 "Développement de l'Armement"
-JAP_ww1_production_effort_desc:0 ""
+ JAP_ww1_production_effort:0 "Développement de l'armement"
+ JAP_ww1_production_effort_desc:0 ""
 
-JAP_ww1_production_effort_2:0 "Développement de l'Armement II"
-JAP_ww1_production_effort_2_desc:0 ""
+ JAP_ww1_production_effort_2:0 "Développement de l'armement II"
+ JAP_ww1_production_effort_2_desc:0 ""
 
-JAP_ww1_production_effort_3:0 "Développement de l'Armement III"
-JAP_ww1_production_effort_3_desc:0 ""
+ JAP_ww1_production_effort_3:0 "Développement de l'armement III"
+ JAP_ww1_production_effort_3_desc:0 ""
 
 JAP_ww1_dockyard_effort_1:0 "Développement des Arsenaux"
-JAP_ww1_dockyard_effort_1_desc:0 ""
+ JAP_ww1_dockyard_effort_1_desc:0 ""
 
 JAP_ww1_dockyard_effort_2:0 "Développement des Arsenaux II"
-JAP_ww1_dockyard_effort_2_desc:0 ""
+ JAP_ww1_dockyard_effort_2_desc:0 ""
 
 JAP_ww1_dockyard_effort_3:0 "Développement des Arsenaux III"
-JAP_ww1_dockyard_effort_3_desc:0 ""
+ JAP_ww1_dockyard_effort_3_desc:0 ""
 
 JAP_ww1_airfield_expansion_1:0 "Développement des Aérodromes"
-JAP_ww1_airfield_expansion_1_desc:0 ""
+ JAP_ww1_airfield_expansion_1_desc:0 ""
 
 JAP_ww1_airfield_expansion_2:0 "Développement des Aérodromes II"
-JAP_ww1_airfield_expansion_2_desc:0 ""
+ JAP_ww1_airfield_expansion_2_desc:0 ""
 
 JAP_ww1_airfield_expansion_3:0 "Développement des Aérodromes III"
-JAP_ww1_airfield_expansion_3_desc:0 ""
+ JAP_ww1_airfield_expansion_3_desc:0 ""
 
-JAP_ww1_infrastructure_effort:0 "Développement des Infrastructures"
-JAP_ww1_infrastructure_effort_desc:0 ""
+ JAP_ww1_infrastructure_effort:0 "Développement des infrastructures"
+ JAP_ww1_infrastructure_effort_desc:0 ""
 
-JAP_ww1_infrastructure_effort_2:0 "Développement des Infrastructures II"
-JAP_ww1_infrastructure_effort_2_desc:0 ""
+ JAP_ww1_infrastructure_effort_2:0 "Développement des infrastructures II"
+ JAP_ww1_infrastructure_effort_2_desc:0 ""
 
 JAP_ww1_infrastructure_effort_3:0 "Développement des Infrastructures III"
-JAP_ww1_infrastructure_effort_3_desc:0 ""
+ JAP_ww1_infrastructure_effort_3_desc:0 ""
 
 JAP_ww1_infrastructure_effort_4:0 "Développement des Infrastructures IV"
-JAP_ww1_infrastructure_effort_4_desc:0 ""
+ JAP_ww1_infrastructure_effort_4_desc:0 ""
 
-JAP_ww1_extra_tech_slot:0 "Nouvel Emplacement de Recherche"
-JAP_ww1_extra_tech_slot_desc:0 ""
+ JAP_ww1_extra_tech_slot:0 "Sciences [Root.GetAdjFP]"
+ JAP_ww1_extra_tech_slot_desc:0 ""
 
-JAP_ww1_extra_tech_slot_2:0 "Nouvel Emplacement de Recherche II"
-JAP_ww1_extra_tech_slot_2_desc:0 ""
+ JAP_ww1_extra_tech_slot_2:0 "Recherche [Root.GetAdjFS]"
+ JAP_ww1_extra_tech_slot_2_desc:0 ""
  #--------------------------------------------------------------
 
 
@@ -193,31 +193,31 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
  JAP_ww1_dreadnought_effort:0 "Renforcer la Marine Impériale Japonaise"
  JAP_ww1_dreadnought_effort_desc:0 ""
 
- JAP_ww1_flexible_navy:0 "Marine Flexible"
+ JAP_ww1_flexible_navy:0 "Marine flexible"
  JAP_ww1_flexible_navy_desc:0 ""
 
- JAP_ww1_large_navy:0 "Grande Marine"
+ JAP_ww1_large_navy:0 "Flotte importante"
  JAP_ww1_large_navy_desc:0 ""
 
  JAP_ww1_navyreform:0 "Déploiement de la Flotte"
  JAP_ww1_navyreform_desc:0 ""
 
- JAP_ww1_submarine_effort:0 "Développement des Sous-Marins"
+ JAP_ww1_submarine_effort:0 "Développement des sous-marins"
  JAP_ww1_submarine_effort_desc:0 ""
 
- JAP_ww1_cruiser_effort:0 "Développement des Croiseurs"
+ JAP_ww1_cruiser_effort:0 "Développement des croiseurs"
  JAP_ww1_cruiser_effort_desc:0 ""
 
- JAP_ww1_destroyer_effort:0 "Développement des Destroyers"
+ JAP_ww1_destroyer_effort:0 "Développement des destroyers"
  JAP_ww1_destroyer_effort_desc:0 ""
 
- JAP_ww1_capital_ships_effort:0 "Développement des Vaisseaux Capitaux"
+ JAP_ww1_capital_ships_effort:0 "Développement des navires capitaux"
  JAP_ww1_capital_ships_effort_desc:0 ""
 
- JAP_ww1_carrier_focus:0 "Développement des Navires Porteurs"
+ JAP_ww1_carrier_focus:0 "Développement des porte-avions"
  JAP_ww1_carrier_focus_desc:0 ""
 
- JAP_ww1_antisubmarine:0 "Guerre Anti-Sous-Marine"
+ JAP_ww1_antisubmarine:0 "Guerre anti-sous-marine"
  JAP_ww1_antisubmarine_desc:0 ""
 
  #--------------------------------------------------------------
@@ -225,8 +225,8 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
 
  # [EMPIRE OF JAPAN] Political Effort
  #=========================================================================
- JAP_ww1_political_effort:0 "Développement Politique"
-  JAP_ww1_political_effort_desc:0 ""
+ JAP_ww1_political_effort:0 "Développement politique"
+ JAP_ww1_political_effort_desc:0 ""
 
  JAP_ww1_support_republic:0 "Fukoku Kyōhei"
  JAP_ww1_support_republic_desc:0 "L'empereur Meiji a renversé le shôgunat, et a commencé à diriger notre empire dans une nouvelle voie, loin de l'isolationnisme et en devenant une grande puissance. Quel genre de nations serions-nous en tournant le dos à ces temps nouveaux? En continuant dans cette direction, la place du Japon dans le monde sera conforté."
@@ -243,16 +243,16 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
  JAP_ww1_indoctrination_focus:0 "Endoctrinement"
  JAP_ww1_indoctrination_focus_desc:0 ""
 
- JAP_ww1_political_commissars:0 "Commissaires Politiques"
+ JAP_ww1_political_commissars:0 "Commissaires politiques"
  JAP_ww1_political_commissars_desc:0 ""
 
- JAP_ww1_paramilitarism:0 "Paramilitarisme"
+ JAP_ww1_paramilitarism:0 "Organisations paramilitaires"
  JAP_ww1_paramilitarism_desc:0 ""
 
- JAP_ww1_political_correctness:0 "Politiquement Correct"
+ JAP_ww1_political_correctness:0 "Conformité politique"
  JAP_ww1_political_correctness_desc:0 ""
 
- JAP_ww1_military_youth:0 "Jeunesse Militaire"
+ JAP_ww1_military_youth:0 "Militarisation de la jeunesse"
  JAP_ww1_military_youth_desc:0 ""
 
  JAP_ww1_student_movement_focus:0 "Mouvement Étudiant"
@@ -276,7 +276,7 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
  JAP_ww1_free_Korea:0 "Auto-Détermination Coréenne"
  JAP_ww1_free_Korea_desc:0 "La Corée n'est d'aucune utilisée au Japon! Laissons-les partir, et ne jamais revenir souiller notre bannière!"
 
- JAP_ww1_limited_rearmament:0 "Réarmement Limité"
+ JAP_ww1_limited_rearmament:0 "Réarmement limité"
  JAP_ww1_limited_rearmament_desc:0 ""
 
  JAP_ww1_full_rearmament:0 "Réarmement Total"
@@ -291,7 +291,7 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
  JAP_ww1_fortify_city:0 "Fortifications Civiles"
  JAP_ww1_fortify_city_desc:0 ""
 
- JAP_ww1_fortify_coast:0 "Défense Côtière"
+ JAP_ww1_fortify_coast:0 "Défense côtière"
  JAP_ww1_fortify_coast_desc:0 ""
 
  JAP_ww1_install_democracy:0 "Élections Libres"
@@ -310,7 +310,7 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
  #=========================================================================
 
 JAP_ww1_diplomatic_effort:0 "Développement Diplomatique"
-JAP_ww1_diplomatic_effort_desc:0 ""
+ JAP_ww1_diplomatic_effort_desc:0 ""
 
 JAP_ww1_assert_position_pacific:0 "Asseoir la position dans le Pacifique"
 JAP_ww1_assert_position_pacific_desc:0 "Même si le Pacifique est légitimement connu comme un territoire japonais, il y a concrètement suffisament d'îles pour partager avec nos prétendus alliés, pour l'instant. Le premier objectif du Japon va être les îles de nos rivaux régionaux, que nous devons conquérir, quel qu'en soit le coût."
@@ -327,7 +327,7 @@ JAP_ww1_Diplomatic_Siam_desc:0 "Le Siam est le seul pays indépendant et stable 
 JAP_ww1_ready_country:0 "Préparation à la Guerre"
 JAP_ww1_ready_country_desc:0 "Les tensions en Europe ont atteint un point de rupture, à l'avantage du Japon. Peu importe à qui nous faisons face, nous devons tout d'abord être prêts à nous battre!"
 
-JAP_ww1_defense_border:0 "Fortifier le Japon"
+ JAP_ww1_defense_border:0 "La forteresse japonaise"
 JAP_ww1_defense_border_desc:0 "Le Japon est une nation insulaire, ce qui implique divers avantages et inconvénients. Le risque le plus grand est de voir n'importe quel attaquant débarquer sur nos côtes et pouvoir accéder directement à notre capitale et faire chuter notre gouvernement. Mais, l'étendue réduite de notre territoire signifie aussi qu'un petit nombre de divisions peuvent sécuriser une grande partie de notre territoire. Le Japon doit être innattaquable, où il ne survivra pas."
 
 JAP_ww1_Japan_Korea_Treaty:0 "Traité d'Annexion Nippo-Coréen"

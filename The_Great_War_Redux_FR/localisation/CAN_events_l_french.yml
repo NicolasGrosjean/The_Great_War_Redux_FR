@@ -1,5 +1,5 @@
 ﻿l_french:
- MINIMIZE_EVENT:9 "§GClick§! to Minimize. Event will be placed in the Event Queue under §HEvents and Decisions§!."
+ MINIMIZE_EVENT:0 "§GCliquer§! pour réduire cette fenêtre. L'événement sera placé dans la file des événements, sous l'onglet §HÉvénements et décisions§!."
  
  #Welcome to Canada
  canada.1.t:9 "Welcome to Canada - Message from the Canadian Dev"
@@ -284,7 +284,7 @@
  canada.66.a:9 "Claim the Skies!"
  canada.66.b:9 "Support our Brave Men!"
  
- canada.67.t:9 "Elections"
+ canada.67.t:0 "Élections"
  canada.67.d:9 "The national elections are upon us. Robert Borden is a Conservative British Loyalist who will help Britain in their endeavours, while Wilfrid Laurier want to push Canada to Freedom and away from British Dependence."
  canada.67.a:9 "Borden will secure our Loyalty"
  canada.67.b:9 "Our Nation is in No Need for British Posturing"

@@ -143,7 +143,7 @@
  CAN_german_ships:9 "German Ship Orders"
  CAN_german_ships_desc:9 "The Germans have some of the best dreadnoughts ever made. Request an order for German Dreadnoughts."
  
- CAN_technology_share:9 "Technology Sharing"
+ CAN_technology_share:0 "Partage technologique"
  CAN_technology_share_desc:9 "With our new formed allies, we should discuss our greatest technological advancements."
  
  CAN_excavation:9 "Canadian Minerals"
@@ -158,7 +158,7 @@
  CAN_grand_excavation:9 "Grand Canadian Excavation"
  CAN_grand_excavation_desc:9 "We must improve our methods of extracting resources for a much grander economy."
  
- CAN_oil:9 "Imperial Oil"
+ CAN_oil:0 "Compagnie Pétrolière Impériale Limitée"
  CAN_oil_desc:9 "Imperial Oil wants to expand it's facilities to Western Canada. This will bring profits to Canada, and give us an edge on the oil trade."
  
  CAN_fuel:9 "Texas Refineries"
@@ -170,7 +170,7 @@
  CAN_railway2:9 "The People's Railway"
  CAN_railway2_desc:9 "From this day forward, we have finished the largest project in Canadian history. Canadians will be able to rejoice and celebrate our patriotism. Today, Canada announces the completion of The People's Railway."
  
- CAN_pacific_railway:9 "Canadian Pacific Railway"
+ CAN_pacific_railway:0 "Chemin de fer Canadien Pacifique"
  CAN_pacific_railway_desc:9 "For years, the transcontinental railway has needed repair and proper construction. We will invest in a renovation of this historic railway."
  
  CAN_industry_limited:9 "Canadian Industries Limited"
@@ -188,7 +188,7 @@
  CAN_small_arms:9 "Small Arms Factories"
  CAN_small_arms_desc:9 "Our army must be a high quality proffesionally trained miltiary, with Canadian weapons of war."
  
- CAN_ford:9 "Ford Motor Company"
+ CAN_ford:0 "Ford Motor Company"
  CAN_ford_desc:9 "Ford has asked to make vehicles for Canada. This will be a great partnership."
  
  CAN_model_T:9 "The Model T"
@@ -206,7 +206,7 @@
  CAN_pacific_fleet:9 "Pacific Fleet"
  CAN_pacific_fleet_desc:9 "A Pacific Fleet would allow us to maintain our Pacific interests."
  
- CAN_atlantic_fleet:9 "Atlantic Fleet"
+ CAN_atlantic_fleet:0 "Flotte de l'Atlantique"
  CAN_atlantic_fleet_desc:9 "An Atlantic Fleet would allow us to maintain our possesions in the Atlantic as well as maintain our interests in the European war."
  
  CAN_fleet_doctrine:9 "British Fleet Doctrine"
@@ -272,7 +272,7 @@
  CAN_consc_crisis:9 "Conscription Crisis"
  CAN_consc_crisis_desc:9 "French Canadian nationalists believe the war in Europe is a foreign war, and they will not fight. Bourassa is also a man standing against conscription. How will we continue the war?"
  
- CAN_commit:9 "Commit to the War"
+ CAN_commit:0 "Engagement dans la guerre"
  CAN_commit_desc:9 "Canada must commit to the war with weapons, resources and men. Implement conscription."
  
  CAN_bourassa:9 "The Bourassa Compromise"
@@ -284,7 +284,7 @@
  CAN_impose:9 "Imposed Conscription"
  CAN_impose_desc:9 "The Quebecois cannot do anything about conscription. It is for the greater good."
  
- CAN_war_fueled_economy:9 "War Fueled Economy"
+ CAN_war_fueled_economy:0 "Économie alimentée par la guerre"
  CAN_war_fueled_economy_desc:9 "Canada is ready for war and will no longer be a faultering nation that is falling behind on industrialization."
  
  CAN_industrialized_new:9 "A New Canada"

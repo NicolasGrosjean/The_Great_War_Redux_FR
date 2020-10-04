@@ -1,5 +1,5 @@
 ﻿l_french:
- leave_faction:9 "Leave Faction"
+ leave_faction:0 "Départ des factions"
  GER_great_war:0 "The Great War"
  GER_great_war_desc:0 "The Great War will globally change the fate of nations around the world. If Faction Leader surrenders, the winners must decide on what conditions they are ready to make peace.\n\n§GVictorious Faction will get claimed states and cores after the Conference§!."
  GER_schlieffen_plan:0 "Plan Schlieffen"
@@ -107,7 +107,7 @@
  RUS_release_AZR:0 "Release Azerbaijan"
  RUS_release_KAZ:0 "Release Kazakhs"
  RUS_release_TMS:0 "Release Turkestan"
- RUS_mission_self_determination_dummy:0 "War of Independence"
+ RUS_mission_self_determination_dummy:0 "Guerre d'indépendance"
  RUS_mission_self_determination_dummy_tt:0 "Non-Russified regions of Poland, Finland, the Baltic, Caucasus, Central Asia will start a war of independence.\n"
  RUS_mission_self_determination_FIN:0 "Finnish Revolution"
  RUS_mission_self_determination_FIN_dummy:0 "Finnish Revolution"
@@ -220,7 +220,7 @@
  
  SER_secret_purchases_category:0 "Secret arms supplies"
  SER_secret_purchases_category_desc:0 "During a war of action surrounded by enemies, we need to organize the supply of weapons from our allies so that the enemy can't capture them."
- SER_request_infantry_equipment:0 "Request Infantry Equipment"
+ SER_request_infantry_equipment:0 "Demander du matériel d'infanterie"
  SER_request_support_equipment:0 "Request Support Equipment"
  SER_request_artillery_equipment:0 "Request Artillery Equipment"
  SER_request_motorized_equipment:0 "Request Motorized Equipment"
@@ -431,7 +431,7 @@
  form_redania_category:0 "Form Redania"
  form_redania:0 "Form Redania"
  form_redania_desc:0 "Hmm..."
- decision_great_depression:0 "Great Depression"
+ decision_great_depression:0 "Grande Dépression"
  mission_interwar_demobilization:9 "Interwar Demobilization"
  
  flag_tsar_nicholas_abdicated:0 "Tsar Nicholas abdicated"
@@ -481,7 +481,7 @@
  
  QAT_ask_for_british_protection:9 "Ask for British Protection"
  
- BUL_form_byzantine_empire:9 "Restore Byzantium"
+ BUL_form_byzantine_empire:0 "Restaurer Byzance"
  BUL_form_byzantine_empire_category:9 "New Byzantium"
  BUL_form_byzantine_empire_category_desc:9 "Like many other rulers before him, Ferdinand desired the creation of a "new Byzantium". Now with Byzantine's old territories under our control, we can, with some propaganda, claim our nation is the successor of the Byzantine Empire. This heritage is sure to see our international prestige soar!"
  

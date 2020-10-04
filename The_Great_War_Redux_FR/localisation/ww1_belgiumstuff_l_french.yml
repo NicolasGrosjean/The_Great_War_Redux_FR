@@ -38,7 +38,7 @@
  ww1_belgium.2.t:0 "La Belgique propose une alliance"
  ww1_belgium.2.d:0 "Aujourd'hui nous avons reçu un message de la Belgique nous invitant dans leur alliance. Ils proposent d'unir le Benelux et de créer une nouvelle alliance forte. Que devrions-nous faire ?"
  ww1_belgium.2.a:0 "C'est une bonne proposition."
- ww1_belgium.2.b:0 "Non!"
+ ww1_belgium.2.b:0 "Non"
  ww1_belgium.3.t:0 "La Belgique exige la subjugation"
  ww1_belgium.3.d:0 "Aujourd'hui, la Belgique nous a envoyé une demande officielle de subjugation. Ils ont également dit qu'ils utiliseront la force si nécessaire. Quelle est notre réponse ?"
  ww1_belgium.3.a:0 "Nous n'avons pas le choix..."
@@ -52,19 +52,19 @@
  ww1_belgium.5.a:0 "Nous enverrons la demande à nos voisins"
  ww1_belgium.5.b:0 "Nous contrôlons déjà le Benelux"
  
- BEL_ww1_army_effort:0 "Modernisation militaire"
+ BEL_ww1_army_effort:0 "Modernisation de l'armée"
  BEL_ww1_army_effort_desc:0 "Beaucoup de nos fusils, canons, outils et, malheureusement, des chefs militaires sont des reliques d'une époque révolue. Avec le Maxim Gun maintenant non seulement fabriqué, mais à grande échelle, nous n'avons tout simplement pas d'autre choix que de nous mettre à la page. Plus vite nous mettons en circulation ces nouvelles armes et faisons appel à des experts qui savent comment les utiliser, plus vite notre armée peut devenir une force de combat moderne et efficace."
  
- BEL_ww1_equipment_effort:0 "Développement du Matériel"
+ BEL_ww1_equipment_effort:0 "Développement du matériel"
  BEL_ww1_equipment_effort_desc:0 ""
  
- BEL_ww1_doctrine_effort:0 "Développement des Doctrines"
+ BEL_ww1_doctrine_effort:0 "Développement des doctrines"
  BEL_ww1_doctrine_effort_desc:0 ""
  
- BEL_ww1_aviation_effort:0 "Développement de l'Aviation"
+ BEL_ww1_aviation_effort:0 "Développement de l'aviation"
  BEL_ww1_aviation_effort_desc:0 ""
  
- BEL_ww1_submarine_effort:0 "Développement des Submersibles"
+ BEL_ww1_submarine_effort:0 "Développement des sous-marins"
  BEL_ww1_submarine_effort_desc:0 ""
 
  BEL_ww1_trenchwarfare:0 "Guerre des Tranchées"
@@ -91,7 +91,7 @@
  BEL_ww1_doctrine_effort_1:0 "Développement des Doctrines I"
  BEL_ww1_doctrine_effort_1_desc:0 "Bien que l'ère de l'état-major général des princes du royaume ait pris fin depuis longtemps, plusieurs de nos généraux et autres officiers ont été choisis pour nos armées, non pour leur habileté, mais pour des connexions ou des liens familiaux. Bien que cela les garde fidèles, cela les rend non compétitifs. Nous devons commencer les récompenses pour le mérite - encore, espérons-le, ne pas laisser trop de riffs communs dans l'estimé état-major général ..."
 
- BEL_ww1_doctrine_effort_2:0 "Développement des Doctrines II"
+ BEL_ww1_doctrine_effort_2:0 "Développement des doctrines II"
  BEL_ww1_doctrine_effort_2_desc:0 "Bien que notre état-major général soit maintenant entièrement basé sur le mérite, ils ne sont pas les seuls à pouvoir aider dans nos doctrines. Un type de chercheurs qui est resté inactif depuis le début des années 1800 - les «généraux du fauteuil» - s'est à nouveau organisé. Bien que ces hommes aient une expérience de combat limitée, leur étude de la guerre ne peut être ignorée. Leur intégration pourrait s'avérer bénéfique pour nos tactiques militaires."
 
  BEL_ww1_doctrine_effort_3:0 "Développement des Doctrines III"
@@ -100,16 +100,16 @@
  BEL_ww1_equipment_effort_1:0 "Développement du Matériel I"
  BEL_ww1_equipment_effort_1_desc:0 "Nos généraux ne sont pas seulement de la vieille garde qui garde notre armée au siècle dernier. Nos quartiers-maîtres ont encore des problèmes militaires du 19ème siècle derrière eux. En sélectionnant les officiers les plus aimés et les plus à l'écoute, nous pouvons apprendre les défauts de nos armes actuelles, nous permettant de produire rapidement des conceptions corrigées et améliorées - tout en veillant à ce que ces hommes ne deviennent pas trop populaires !"
 
- BEL_ww1_equipment_effort_2:0 "Développement du Matériel II"
+ BEL_ww1_equipment_effort_2:0 "Développement du matériel II"
  BEL_ww1_equipment_effort_2_desc:0 "Nos nouveaux quartiers-maîtres nous ont demandé des fusils non seulement plus récents, mais aussi des armes de soutien plus récentes. L'expérience de cette nouvelle armée a conduit à des idées comme des mitrailleuses plus légères, des mortiers de tranchées et des grenades à fusil, qui semblent toutes très utiles, à condition que nous puissions trouver les bonnes personnes pour les concevoir et les fabriquer."
 
- BEL_ww1_equipment_effort_3:0 "Développement du Matériel III"
+ BEL_ww1_equipment_effort_3:0 "Développement du matériel III"
  BEL_ww1_equipment_effort_3_desc:0 "Les quartiers-maîtres ont envoyé une lettre de demande pour plus de fusils équipés pour les conditions de tranchées - être capable de lancer des grenades à fusil, attacher des baïonnettes ou des lunettes, et plus de carabines. Bien que nous puissions tout simplement produire plus directement, il semble logique d'apporter à nos fusils le pouvoir faire toutes ces choses, ce qui signifie un nouveau design amélioré."
 
  BEL_ww1_equipment_effort_4:0 "Développement du Matériel IV"
  BEL_ww1_equipment_effort_4_desc:0 "Nos quartiers-maîtres nous ont malheureusement envoyé une autre liste de demandes. Heureusement, nous avons demandé à nos maîtres de poste d'ignorer tout autre courrier provenant d'eux. Leur dernière demande est de nouveaux équipements pour notre corps d'ingénieurs - carabines, outils, et ces nouveaux lance-flammes, qui seront mis en service dès que possible. Bien sûr, élargir le corps du génie en tant que tel pourrait fournir des avantages inédits ..."
 
- BEL_ww1_armor_effort_1:0 "Développement des Blindés"
+ BEL_ww1_armor_effort_1:0 "Développement des blindés"
  BEL_ww1_armor_effort_1_desc:0 "Nos investissements antérieurs ont porté leurs fruits!  Les concepteurs d'artillerie, les ingénieurs et les concepteurs de véhicules nous ont proposé un tout nouveau type de véhicule : un tracteur lourdement blindé avec un canon à tir direct. Bien que les premières conceptions ne soient clairement pas prêtes au combat, ce concept est très prometteur, en particulier pour mettre fin à l'impasse des Tranchées en notre faveur, si ces vaisseaux terrestres peuvent résister aux tirs des mitrailleuses, comme on le prétend."
 
  BEL_ww1_armor_effort_2:0 "Développement des Blindés II"
@@ -125,10 +125,10 @@
  BEL_ww1_form_air_force:0 "Formation de l'Armée de l'Air" #link me pls
  BEL_ww1_form_air_force_desc:0 "Ces nouveaux aéroplanes sont des jouets intéressants, et ont aussi peut-être une certaine valeur militaire. Les pilotes civils peuvent facilement être attirés par notre armée, et les experts pourraient nous apprendre comment utiliser ces nouveaux joujoux dernier cri. Et si ce projet porte ses fruits, nous pouvons gagner un avantage décisif sur nos adversaires restant en arrière dans ce domaine, dans les doctrines aériennes."
 
- BEL_ww1_fighter_focus:0 "Développement des Chasseurs" #link me pls
+ BEL_ww1_fighter_focus:0 "Priorité aux chasseurs"
  BEL_ww1_fighter_focus_desc:0 "La valeur du chasseur n’est pas à remettre en question. Si nous concentrons nos efforts aériens sur la conception et l’usage de ces appareils, nos avions pourraient un jour inonder les cieux, détruire les avions de l’ennemi sans qu’ils puissent s’y opposer et nous procurer un avantage décisif. Bien sûr, le lobby des bombardiers est également intéressant, aussi ne devrions-nous pas mettre tous nos œufs dans le même panier…"
 
- BEL_ww1_bomber_focus:0 "Développement des Bombardiers" #link me pls
+ BEL_ww1_bomber_focus:0 "Priorité aux bombardiers"
  BEL_ww1_bomber_focus_desc:0 "Le bombardier est une machine simple et pratique. Concentre nos conceptions et nos forces de production sur cette classe spécifique d’aéroplanes seraient un bon moyen de nous assurer que nous puissions utiliser l’armée de l’air comme un outil de support de troupes, capable d’aider l’infanterie en détruisant les défenses et les positions ennemies. Bien sûr, les chasseurs peuvent toujours être produits, mais ces bombardiers pourraient gagner la guerre pour nous." 
 
  BEL_ww1_airship_focus:0 "Développement des Dirigeables"
@@ -137,7 +137,7 @@
  BEL_ww1_aviation_effort_1:0 "Développement de l'Aviation I" #Link me pls
  BEL_ww1_aviation_effort_1_desc: "Maintenant que nous avons pour de bon constitué une armée de l’Air, nous avons fait des avancées intéressantes. Plus notablement, nos concepteurs d’aéroplanes ont conçu des prototypes spécifiques pour des rôles précis, plus que des modèles génériques. Utiliser efficacement ces avions, conçus pour des rôles comme l’attaque des aéroplanes ennemis ou le largage de bombes, exigera des tests et des recherches, mais s’avérera avantageuse. "
 
- BEL_ww1_aviation_effort_2:0 "Développement de l'Aviation II"
+ BEL_ww1_aviation_effort_2:0 "Développement de l'aviation II"
  BEL_ww1_aviation_effort_2_desc:0 "Nos efforts pour créer des avions à rôles spécifiques ont résulté dans une grande variété d’appareils, qui permettent de faire beaucoup de choses différentes. La classe de chasseur en particulier a attiré particulièrement la jeunesse, qui en est déjà adepte. Ils ont donné des idées intéressantes pour le futur de notre armée de l’air. Peut-être que nous devrions accorder plus de crédits de leurs idées, pour le bien de nos doctrines." 
 
  BEL_ww1_aviation_effort_3:0 "Développement de l'Aviation III"
@@ -177,25 +177,25 @@
  #--------------------------------------------------------------
  # [Generic] Industrial Effort
 
- BEL_ww1_industrial_effort:0 "Développement Industriel"
+ BEL_ww1_industrial_effort:0 "Développement industriel"
  BEL_ww1_industrial_effort_desc:0 "La Révolution Industrielle est toujours en cours, et notre nation a toujours du pain sur la planche pour rester à la pointe. Entamer quelques nouveaux projets ambitieux pour augmenter nos capacités industrielles aurait des effets bénéfiques à court et long termes pour notre nation, et le moindre d’entre eux sera une grande amélioration de notre capacité à armer nos troupes."
 
- BEL_ww1_construction_effort:0 " Développement de la Construction"
+ BEL_ww1_construction_effort:0 "Développement de la construction"
  BEL_ww1_construction_effort_desc:0 "Une entreprise étrangère d’une nation neutre voisine a été fusionnée avec une de nos industries nationales. Si nous encourageons la nouvelle filiale à déplacer leurs usines et leurs emplois dans notre pays, nous verrons une augmentation immédiate de notre industrie civile Bien sûr, nous devrions superviser la construction de ces nouvelles usines..."
 
- BEL_ww1_construction_effort_2:0 " Développement de la Construction II"
+ BEL_ww1_construction_effort_2:0 "Développement de la construction II"
  BEL_ww1_construction_effort_2_desc:0 "Parfois, même dans un marché de libre-échange, l’état doit s’impliquer. Si le gouvernement doit financer la création de nouvelles entreprises, nous devons nous assurer que nous restions compétitifs, et indépendant des importations étrangères, au cas où le commerce pourrait devenir plus difficile." 
 
- BEL_ww1_construction_effort_3:0 " Développement de la Construction III"
+ BEL_ww1_construction_effort_3:0 "Développement de la construction III"
  BEL_ww1_construction_effort_3_desc:0 "Notre expansion industrielle civile est presque achevée, mais il y a toujours à faire. Certains terrains que nous possédons dans une ville peuvent toujours être vendus à une de nos corporations, avec leur accord pour qu’ils y construisent une manufacture. Ceci augmentera encore notre production de marchandises civils et nous donnera plus d’options pour des constructions futures."
 
- BEL_ww1_production_effort:0 "Développement de l’Armement"
+ BEL_ww1_production_effort:0 "Développement de l'armement"
  BEL_ww1_production_effort_desc:0 "La quantité d’armes que nous avons acquises a attiré l’œil d’un industriel sidérurgique local, qui souhaiterai construire une nouvelle usine d’armement dans notre pays. Si nous parrainons cet effort, en l’aidant a acquérir les terrains nécessaires et en lui prodiguant les investisseurs et le talent, nous récolterons davantage que le simple bénéfice d’une nouvelle usine militaire."
 
- BEL_ww1_production_effort_2:0 " Développement de l’Armement II"
+ BEL_ww1_production_effort_2:0 "Développement de l'armement II"
  BEL_ww1_production_effort_2_desc:0 "Une compagnie automobile qui a construit des véhicules de classe militaire pour nous dans le passé a démontré de l’intérêt pour créer une toute nouvelle usine, spécifiquement pour la production militaire, pour conserver sa capacité de production à destination du marché civil. Si nous les aidons à construire cette usine, nous pourrions négocier une accord d’exclusivité, ce qui signifierait une augmentation directe de notre capacité de production militaire."
 
- BEL_ww1_production_effort_3:0 " Développement de l’Armement III"
+ BEL_ww1_production_effort_3:0 "Développement de l'armement III"
  BEL_ww1_production_effort_3_desc:0 "Un concepteur d’avion et un mécanicien se sont présentés à nous avec une nouvelle demande, pour la création d’une usine d’aviation militaire destinée à assembler des avions pour nos armées."
 
  BEL_ww1_dockyard_effort_1:0 "Développement des Arsenaux"
@@ -216,10 +216,10 @@
  BEL_ww1_airfield_expansion_3:0 " Développement des Aérodromes III"
  BEL_ww1_airfield_expansion_3_desc:0 "Établir des pistes d’aérodromes appropriées près des centres urbains majeurs peut nous permettre la création de bases d’approvisionnement faciles, capables de protéger nos domaines de valeur."
 
- BEL_ww1_infrastructure_effort:0 " Développement des Infrastructures"
+ BEL_ww1_infrastructure_effort:0 "Développement des infrastructures"
  BEL_ww1_infrastructure_effort_desc:0 "Avec la croissance de notre industire, le secteur privé demande encore d’augmenter l’investissement dans l’infrastructure, pour soutenir l’économie nationale. Tant que nous le feront, nous d’obtiendrons pas plus d’occasions de créer de nouvelles usines. Bien sûr, l’infrastructure aide aussi notre nation, en augmentant la vitesse et le flux d'approvisionnement de nos troupes, donc ce placement ne pourrait pas être un si mauvais plan." 
 
- BEL_ww1_infrastructure_effort_2:0 " Développement des Infrastructures II"
+ BEL_ww1_infrastructure_effort_2:0 "Développement des infrastructures II"
  BEL_ww1_infrastructure_effort_2_desc:0 "Avec nos industries, chantiers navals et des pistes d'atterrissage qui continuent à s'étendre, il y a toujours plus à investir. Actuellement, le pas en avant logique est dans les chemins de fer, que nous avons en grande partie ignorés jusqu'à présent. L’investissement pour moderniser ceux-ci aidera à déplacer des provisions et des hommes, ainsi qu'a ouvrir de nouvelles zones pour investir dans notre économie."
 
  BEL_ww1_infrastructure_effort_3:0 " Développement des Infrastructures III"
@@ -228,10 +228,10 @@
  BEL_ww1_infrastructure_effort_4:0 " Développement des Infrastructures IV"
  BEL_ww1_infrastructure_effort_4_desc:0 "Certaines ingénieurs des travaux publics otn proposé la création d’un réseau routier des plus ambitieux, conçu pour connecter nos plus grandes villes entre elels, et certaines de nos bases militaires. L’investissement dans ce projet fera de notre infrastructure un objet de convoitise pour le monde entier, toutes les routes mèneront à notre capitale !"
 
- BEL_ww1_extra_tech_slot:0 "Emplacement de Recherche Supplémentaire"
+ BEL_ww1_extra_tech_slot:0 "Sciences [Root.GetAdjFP]"
  BEL_ww1_extra_tech_slot_desc:0 "Avec un secteur industriel aussi étendu et plusieurs de nos esprits les plus brillants aux commandes des manufactures militaires, et du développement militaire, des résultats sont attendus rapidement. Certaines des industries que nous avons soutenu au début ont mis en valeur quelques individus passionnés, qui peuvent mener des recherches intéressantes pour notre nation."
 
- BEL_ww1_extra_tech_slot_2:0 " Emplacement de Recherche Supplémentaire II"
+ BEL_ww1_extra_tech_slot_2:0 "Recherche [Root.GetAdjFS]"
  BEL_ww1_extra_tech_slot_2_desc:0 "Notre important investissement dans l’industrie et l’infrastructure a rapetissé notre pays –heureusement, pas sur la carte-. Quelques esprits brillants des parties les plus obscures de notre pays visitent la capitale plus souvent, et ils ne serait pas particulièrement difficile de les incorporer au service de la Nation."
 
 
@@ -253,26 +253,26 @@
  BEL_ww1_dreadnought_effort:0 " Développement des Cuirassés"
  BEL_ww1_dreadnought_effort_desc:0 "Depuis que les Britanniques ont révélé la première classe de cuirassé, une course aux armement a été entreprise entre les plus grandes marines du mondes pour construire des cuirassés toujours plus grands et puissants. Si notre pays veut rester à la page, nous devons nous aussi améliorer nos conceptions et produire nos propres dreadnoughts."
 
- BEL_ww1_flexible_navy:0 "Marine Flexible"
+ BEL_ww1_flexible_navy:0 "Marine flexible"
  BEL_ww1_flexible_navy_desc:0 "Une grande masse de navires de guerre nous est complètement inutile si nous ne les utilisons que pour patrouiller un petit carré de mer. Construire une flotte pouvant se déplacer n’importe où et n’importe quand est nécessaire ; avec un nombre suffisant de navires-écran soutenus par un certain nombre de croiseurs de bataille et de cuirassés. Cela nous aidera a contrôler les mers et a pouvoir répondre à une grande variété de menaces, en nous permettant de projeter nos forces à peu près n’importe où dans le monde. "
 
- BEL_ww1_large_navy:0 "Grande Marine"
+ BEL_ww1_large_navy:0 "Flotte importante"
  BEL_ww1_large_navy_desc:0 "Avoir des navires de ligne et des cuirassés est déjà une bonne chose en soi, mais créer un cœur de navires-écrans et de croiseurs cuirassés peut facilement faire pencher la balance en notre faveur et nous ouvrir toutes les options tactiques que ces rôles autorisent, tant qu’ils sont en nombre. Si nous construisons notre marine autour de ce concept et que nous étudions la doctrine correspondante, notre flotte sera tout simplement imbattable."
 
  BEL_ww1_navyreform:0 "Déploiement de la Marine"
  BEL_ww1_navyreform_desc:0 "Ce n’est pas simplement les canons et les navires qui permettent de gagner une bataille navale. Le meilleur navire du monde est inutile s’il n’est pas au bon moment aubon endroit. Investir dans des canaux de communications directs entre navires ainsi qu’entre la flotte et le port peut nous permettre d’être sûrs que chaque navire sera au bon endroit au bon moment, et soutenir notre suprématie navale." 
 
- BEL_ww1_cruiser_effort:0 "Développement des Croiseurs"
+ BEL_ww1_cruiser_effort:0 "Développement des croiseurs"
  BEL_ww1_cruiser_effort_desc:0 "Nos amiraux appellent à une plus grande flotte et à un investissement d’envergure dans les croiseurs, pour nous conférer des navires de taille moyenne capables d’harceler les navires ennemis et les transports adverses ; et de soutenir de plus grands navires de guerre. Donner les moyens à nos bureaux d’étude de concevoir et construire de nouvelles classes de navires de cette sorte nous aidera contre n’importe quel ennemi avec une grande flotte, et sécurisera nos sous-marins."
 
- BEL_ww1_destroyer_effort:0 "Développement des Torpilleurs"
+ BEL_ww1_destroyer_effort:0 "Développement des destroyers"
  BEL_ww1_destroyer_effort_desc:0 "Nos amiraux ont demandé de développer notre flotte de torpilleurs et de plus grands investissements dans ce domaine. Cela nous donnera des navires plus légers, bons pour lutter contre les submersibles ennemis, la reconnaissance et l’escorte de convois. Commander de meilleurs torpilleurs à nos chantiers navals nous aidera à garder ouvertes nos routes commerciales et à soutenir nos propres sous-marins." 
 
- BEL_ww1_capital_ships_effort:0 "Développement des vaisseaux-capitaux"
+ BEL_ww1_capital_ships_effort:0 "Développement des navires capitaux"
  BEL_ww1_capital_ships_effort_desc:0 "Nos amiraux nous ont envoyé une requête relativement simple : plus de cuirassés, et qu’ils soient plus grands, et plus puissants ! Construire ces navires titanesques nous aidera à contrôler les mers, et nous permettra un bon appui-feu à nos troupes au sol qui débarquent en cas d’invasion navale. "
 
- BEL_ww1_carrier_focus:0 "Priorité aux navires de transport"
+ BEL_ww1_carrier_focus:0 "Priorité aux porte-avions"
  BEL_ww1_carrier_focus_desc:0 "« Quelques esprits radicaux ont proposé un navire désarmé, uniquement pour l’usage de bombardiers navals. C’est un projet très prometteur, même s’il est un peu handicapé par la technologie actuelle. Si nous poursuivons ce projet, peut-être qu’un jour l’aviation aéronavale sera commune..." 
 
- BEL_ww1_antisubmarine:0 "Lutte anti-sous-marine"
+ BEL_ww1_antisubmarine:0 "Guerre anti-sous-marine"
  BEL_ww1_antisubmarine_desc:0 "Les sous-marins sont des navires particulièrement difficiles à attraper, surtout quand ils sont bien pilotés. A moins que nous ayons l’intention de laisser toute notre flotte de transport et de commerce se faire envoyer par le fond, nos amiraux nous ont conseillé de commencer à investir dans les charges de profondeurs, les torpilles avancées et autres armes qui nous permettraient de faire disparaître la menace." 

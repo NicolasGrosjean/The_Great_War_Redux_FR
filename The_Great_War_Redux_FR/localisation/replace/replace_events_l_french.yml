@@ -8,10 +8,10 @@
 
  news.129.d:0 "La prise de la capitale allemande a été confirmée par des responsables à Washington. Les combats dans la ville ont été décrits comme intenses, le pont Moltke ayant été démoli par des pionniers allemands désespérés pour stopper l'avancée des envahisseurs.\n\nD'autres ponts sur la Spree ont finalement été sécurisés, les envahisseurs ont pris d'assaut l'opéra Kroll et le Reichstag malgré une résistance allemande féroce. La bataille de Berlin est terminée."
  news.129.b:0 "Berlin est tombé"
- news.130.d:0 "Les forces françaises ont réussi à prendre d'assaut la capitale allemande, qui est tombée après une série de batailles acharnées dans les limites de la ville. Un grand groupe de soldats Waffen-SS s'est barricadé dans l'Olympiastadion, qui a fini par tomber après une attaque déterminée de légionnaires soutenus par l'artillerie.\n\nOn peut maintenant voir le drapeau français survoler la Chancellerie du Reich, et bien que des combats sporadiques soient encore signalés dans certaines banlieues, on pense que la plus grande partie de Berlin a été débarrassée de la résistance organisée."
+ news.130.d:0 "Les forces françaises sont entrées dans la capitale allemande et celle-ci est tombée au terme de batailles rangées livrées à sa périphérie. De nombreux soldats de la Waffen-SS se sont retranchés dans l'Olympiastadion avant l'intervention de la légion étrangère appuyée par l'artillerie.\n\nLe drapeau français flotte désormais au-dessus de la chancellerie du Reich et malgré des combats sporadiques en périphérie de la ville, toute résistance semble avoir été neutralisée."
  news.130.b:0 "Berlin est tombé"
 
- news.155.t:0 "L'Allemagne à nouveau en guerre"
+ news.155.t:0 "[GER.GetLeLaLNPCap] [GER.GetName]\nà nouveau en guerre"
  news.155.d:0 "Bien que beaucoup aient souhaité une paix durable en Europe, une récente tournure des événements a laissé l'Empire allemand sur le chemin de la guerre une fois de plus. Les troupes allemandes se sont mobilisées et sont prêtes à passer à l'offensive."
  news.155.a:0 "C'est peut-être le début d'une autre guerre"
  news.155.b:0 "Pour la gloire de l'Empire allemand"
